@@ -1,6 +1,6 @@
 ---
 title: "Truthear Nova Review: The $150 Tribrid That Hits Harman Dead Center"
-date: 2026-06-01T18:30:00+08:00
+date: 2026-06-01T11:00:00+08:00
 draft: false
 categories:
   - Reviews

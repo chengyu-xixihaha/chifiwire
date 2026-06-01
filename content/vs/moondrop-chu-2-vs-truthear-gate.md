@@ -1,6 +1,6 @@
 ---
 title: "Moondrop Chu 2 vs Truthear Gate: Best $20 IEM Showdown"
-date: 2026-06-01T20:00:00+08:00
+date: 2026-06-01T12:30:00+08:00
 draft: false
 categories:
   - Comparisons
