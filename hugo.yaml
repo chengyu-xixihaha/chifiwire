@@ -1,0 +1,98 @@
+baseURL: "https://chifiwire.com/"
+languageCode: "en-us"
+title: "ChiFi Wire"
+theme: "PaperMod"
+
+defaultContentLanguage: en
+hasCJKLanguage: false
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+enableEmoji: true
+
+permalinks:
+  reviews: "/reviews/:slug/"
+  guides: "/guides/:slug/"
+  comparisons: "/vs/:slug/"
+  news: "/news/:year/:month/:slug/"
+
+pagination:
+  pagerSize: 20
+
+minify:
+  disableXML: false
+  minifyOutput: true
+
+params:
+  env: production
+  title: "ChiFi Wire"
+  description: "In-depth reviews, buying guides, and comparisons of Chinese hi-fi audio gear — IEMs, headphones, DAPs, DACs, amps — for global audiophiles."
+  keywords: ["chifi", "chinese iem", "chinese hifi", "moondrop", "truthear", "letshuoer", "fiio", "topping", "smsl", "kz", "audiophile", "iem review", "dap review"]
+  author: "ChiFi Wire"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  disableScrollToTop: false
+  ShowToc: true
+  TocOpen: false
+  ShowRelatedContent: true
+
+  schema:
+    publisherType: "Organization"
+    sameAs: []
+
+  homeInfoParams:
+    Title: "Welcome to ChiFi Wire"
+    Content: |
+      Honest, in-depth coverage of Chinese hi-fi audio gear for global audiophiles. Reviews, buying guides, and head-to-head comparisons of IEMs, headphones, DAPs, DACs, and amplifiers from brands like Moondrop, Truthear, Letshuoer, FiiO, Topping, SMSL, and HiBy.
+
+  socialIcons:
+    - name: rss
+      url: "/index.xml"
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: reviews
+      name: Reviews
+      url: /reviews/
+      weight: 20
+    - identifier: guides
+      name: Buying Guides
+      url: /guides/
+      weight: 30
+    - identifier: comparisons
+      name: Comparisons
+      url: /vs/
+      weight: 40
+    - identifier: news
+      name: News
+      url: /news/
+      weight: 50
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 60
+
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 80
+    - name: categories
+      weight: 60
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
