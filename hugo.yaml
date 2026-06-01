@@ -30,6 +30,12 @@ params:
   description: "In-depth reviews, buying guides, and comparisons of Chinese hi-fi audio gear — IEMs, headphones, DAPs, DACs, amps — for global audiophiles."
   keywords: ["chifi", "chinese iem", "chinese hifi", "moondrop", "truthear", "letshuoer", "fiio", "topping", "smsl", "kz", "audiophile", "iem review", "dap review"]
   author: "ChiFi Wire"
+  # PaperMod 默认只显示文章数最多的 section（reviews）— 显式列出全部
+  mainSections:
+    - reviews
+    - guides
+    - vs
+    - news
   defaultTheme: auto
   ShowReadingTime: true
   ShowShareButtons: true
