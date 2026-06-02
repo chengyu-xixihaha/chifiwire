@@ -13,6 +13,9 @@ tags:
   - detachable-cable
 description: "7Hz Salnotes Zero review: $25 single-DD IEM that defined the budget audiophile category. Warm-leaning tuning with detachable cable. Still relevant in 2026."
 slug: 7hz-salnotes-zero-review
+rating: 4.0
+price: "24.99"
+brand: "7Hz"
 ---
 
 The 7Hz Salnotes Zero launched in 2023 and immediately became **the default $25 IEM recommendation across r/iems, Head-Fi, and most audiophile YouTube channels**. Three years later it's still on best-buys lists — which says everything about how solid the original execution was.

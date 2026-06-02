@@ -12,6 +12,9 @@ tags:
   - sub-500
 description: "HiBy R4 review: $399 Snapdragon 665 Android DAP with dual ES9018C2M DACs. The justified upgrade from FiiO JM21 — worth the 2x price?"
 slug: hiby-r4-review
+rating: 4.0
+price: "399.00"
+brand: "HiBy"
 ---
 
 The FiiO JM21 ($200) set the bar for **best sub-$200 Android DAP**. The natural question: what does **double the budget** get you?

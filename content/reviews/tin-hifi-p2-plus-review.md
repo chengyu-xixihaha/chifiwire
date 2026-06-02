@@ -12,6 +12,9 @@ tags:
   - sub-1000
 description: "Tin HiFi P2 Plus review: $620 planar flagship IEM with 12mm driver, Mogami cable, gold-plated finish. Power-hungry, technically excellent."
 slug: tin-hifi-p2-plus-review
+rating: 4.0
+price: "620.00"
+brand: "Tin HiFi"
 ---
 
 The original **Tin HiFi P2** earned its reputation in 2020 as the **planar IEM with technical chops** but also as the **IEM that destroyed sources** — its low sensitivity made it nearly impossible to drive from anything portable. Three years later, Tin HiFi released the **P2 Plus** — same 12mm planar driver, refined tuning, premium build, and (predictably) the same power requirements.

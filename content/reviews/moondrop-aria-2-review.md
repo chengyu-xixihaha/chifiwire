@@ -13,6 +13,9 @@ tags:
   - vdsf
 description: "Moondrop Aria 2 review: $89 single-dynamic IEM with TiN ceramic dome driver, modular 3.5/4.4mm cable, VDSF tuning. Refined, but is it worth upgrading?"
 slug: moondrop-aria-2-review
+rating: 4.5
+price: "89.99"
+brand: "Moondrop"
 ---
 
 The original Moondrop Aria didn't just sell well — it set the expectation for what a $79 IEM should sound like. Four years and several variants later (Snow Edition, Aria SE), Moondrop has rolled out the proper sequel: the **Aria 2**, $89.99, single dynamic driver, new diaphragm, modular cable. The question isn't whether it's good — Moondrop knows how to tune at this price. The question is whether the refinements are enough to justify the buy if you already own the original, or whether someone coming fresh into the hobby should pick this over a Truthear Hexa or a Letshuoer S08.

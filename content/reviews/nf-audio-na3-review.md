@@ -12,6 +12,9 @@ tags:
   - dual-cavity-dd
 description: "NF Audio NA3 review: $69 dual-cavity single-DD IEM with V-shaped warmth. Old-school musical signature for buyers tired of analytical Harman tuning."
 slug: nf-audio-na3-review
+rating: 3.5
+price: "69.99"
+brand: "NF Audio"
 ---
 
 NF Audio is the **underdog brand** in the sub-$100 ChiFi tier. They've been making IEMs since 2018 — predating most of the brands that dominate "best $100 IEM" lists today (Moondrop, Truthear, 7Hz). The **NA3 at $69** is their most popular product, targeting buyers who want a **warm, slightly V-shaped, "old-school musical"** signature instead of the modern Harman-target consensus.

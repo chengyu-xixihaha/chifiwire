@@ -13,6 +13,9 @@ tags:
   - detachable-cable
 description: "Simgot EW200 review: $40 single-DD IEM with DLC diaphragm. The technical champion under $50 — punches into $100 territory with the right source."
 slug: simgot-ew200-review
+rating: 4.5
+price: "39.99"
+brand: "Simgot"
 ---
 
 The Simgot EW200 is the **technical overachiever** in the sub-$50 IEM tier. While the Moondrop Chu 2, Truthear Gate, and 7Hz Salnotes Zero compete on tuning at $20-25, the EW200 at $40 brings real driver technology — a **DLC (Diamond-Like Carbon) diaphragm** with measurable advantages in transient speed and detail retrieval.

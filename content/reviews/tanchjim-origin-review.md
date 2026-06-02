@@ -13,6 +13,9 @@ tags:
   - tunable-nozzle
 description: "Tanchjim Origin review: $260 single dynamic IEM with 5th-gen DMT driver, replaceable tuning nozzles, 304 stainless steel shell. The mature single-DD pinnacle."
 slug: tanchjim-origin-review
+rating: 4.0
+price: "259.99"
+brand: "Tanchjim"
 ---
 
 There's an audiophile camp that insists **single dynamic drivers always sound more "natural" than hybrids or planars** — that the time-domain coherence of one driver covering the full spectrum is worth giving up the technical advantages of multi-driver setups. The **Tanchjim Origin** is the IEM you point that camp toward.

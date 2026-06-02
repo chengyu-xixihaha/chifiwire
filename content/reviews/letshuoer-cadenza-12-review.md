@@ -12,6 +12,9 @@ tags:
   - sub-2500
 description: "Letshuoer Cadenza 12 review: $2,000 flagship IEM with 1DD + 11 BA drivers, titanium chassis. Multi-BA flagship that competes with $3K+ alternatives."
 slug: letshuoer-cadenza-12-review
+rating: 4.5
+price: "1999.00"
+brand: "Letshuoer"
 ---
 
 The **Letshuoer Cadenza 12** is the flagship IEM most ChiFi enthusiasts cite when arguing "**Chinese brands have caught up to Western flagship territory**". At $1,999 (down from $2,299), the Cadenza 12 competes with **64 Audio Trio, Vision Ears VE8, Empire Ears Legend X** — products from established Western brands routinely $3,000+.

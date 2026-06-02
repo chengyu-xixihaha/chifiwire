@@ -13,6 +13,9 @@ tags:
   - tunable-nozzle
 description: "Simgot EA1000 Fermat review: $219 single-DD IEM with passive radiator and 3 swappable nozzles. The mathematical theorem of bass extension under $300."
 slug: simgot-ea1000-fermat-review
+rating: 4.0
+price: "219.99"
+brand: "Simgot"
 ---
 
 Simgot has spent the last few years building **the most thoughtful sub-$300 IEM lineup in ChiFi**. The EW200 ($40) brought DLC diaphragms to the budget tier. The EA500 brought tunable nozzles. The **EA1000 "Fermat" ($219)** is their statement piece — a single dynamic driver paired with a **passive radiator** for bass extension, plus three swappable tuning nozzles.

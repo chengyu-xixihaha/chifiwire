@@ -1,0 +1,57 @@
+{{- /* Product Review schema for review pages with rating + price in frontmatter */ -}}
+{{- if and .IsPage (in .Params.categories "Reviews") (.Params.rating) -}}
+{{- $price := default "" .Params.price -}}
+{{- $brand := default "" .Params.brand -}}
+{{- $productName := default .Title .Params.product_name -}}
+{{- $rating := .Params.rating -}}
+{{- $img := default "" .Params.cover.image -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Product",
+    "name": "{{ $productName }}",
+    {{- with $brand }}
+    "brand": {"@type": "Brand", "name": "{{ . }}"},
+    {{- end }}
+    {{- with $img }}
+    "image": "{{ . }}",
+    {{- end }}
+    {{- with $price }}
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ . }}",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock"
+    },
+    {{- end }}
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "{{ $rating }}",
+      "bestRating": "5",
+      "ratingCount": "1",
+      "reviewCount": "1"
+    }
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "ChiFi Wire",
+    "url": "https://chifiwire.com/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ChiFi Wire",
+    "url": "https://chifiwire.com/"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ $rating }}",
+    "bestRating": "5"
+  },
+  "name": {{ .Title | jsonify }},
+  "reviewBody": {{ .Description | jsonify }}
+}
+</script>
+{{- end -}}

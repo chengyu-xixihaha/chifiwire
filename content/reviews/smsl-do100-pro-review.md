@@ -13,6 +13,9 @@ tags:
   - hdmi-arc
 description: "SMSL DO100 Pro review: $220 desktop DAC with dual ES9039Q2M, HDMI ARC, LDAC Bluetooth 5.1, hardware MQA. The Swiss Army knife of sub-$300 DACs."
 slug: smsl-do100-pro-review
+rating: 4.5
+price: "219.00"
+brand: "SMSL"
 ---
 
 The **SMSL DO100 Pro** at $219 packs more inputs and features into a $200 DAC than anything else in the segment. Dual ES9039Q2M chips, **HDMI ARC** (yes, plug your TV into it), USB, optical, coaxial, Bluetooth 5.1 with LDAC, hardware MQA decoding, balanced XLR output. The kind of spec sheet that should cost $400, not $220.

@@ -13,6 +13,9 @@ tags:
   - tunable
 description: "KZ Castor review: $35 dual-DD IEM with 4-way tuning switches. Get the Harman version, not Bass. Genuine entry-level pick that survives QC concerns."
 slug: kz-castor-review
+rating: 4.0
+price: "35.00"
+brand: "KZ"
 ---
 
 KZ spent the last decade earning a reputation for ChiFi IEMs that were technically interesting but **tuned for the V-shape masses** — boomy bass, sparkly treble, recessed mids. The **Castor** is the brand's pivot toward modern Harman tuning, with a twist: two versions (Standard / Bass) and on-shell switches that let you adjust the sound on the fly.

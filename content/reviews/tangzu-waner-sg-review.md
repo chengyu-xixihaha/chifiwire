@@ -13,6 +13,9 @@ tags:
   - budget-iem
 description: "Tangzu Wan'er S.G. review: $20 single-DD IEM with warm signature and detachable cable. The Chu 2/Gate alternative that gets overlooked because of the brand name."
 slug: tangzu-waner-sg-review
+rating: 4.0
+price: "19.99"
+brand: "Tangzu"
 ---
 
 The Tangzu Wan'er S.G. occupies an odd position in the $20 IEM market — **arguably as good as the Moondrop Chu 2 and Truthear Gate, but consistently overlooked** because Tangzu is the less recognized name. The "S.G." stands for "Sweetie Girl" (Tangzu's branding is... distinctive), which doesn't help.

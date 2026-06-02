@@ -13,6 +13,9 @@ tags:
   - detachable-cable
 description: "Truthear Gate review: $22 single-DD IEM with LCP diaphragm and detachable 2-pin cable. The Chu 2 alternative that's worth $2 more."
 slug: truthear-gate-review
+rating: 4.0
+price: "21.99"
+brand: "Truthear"
 ---
 
 The Truthear Gate is what happens when Truthear takes the **Moondrop Chu 2 formula** ($20 single-DD, Harman-leaning tuning, low-friction first IEM) and asks: "what if we added a detachable cable for $2 more?"

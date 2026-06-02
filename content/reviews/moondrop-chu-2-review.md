@@ -13,6 +13,9 @@ tags:
   - vdsf
 description: "Moondrop Chu 2 review: $20 single-DD IEM with VDSF tuning, zinc alloy shell. The best $20 IEM Moondrop has shipped — with one notable catch."
 slug: moondrop-chu-2-review
+rating: 4.0
+price: "19.99"
+brand: "Moondrop"
 ---
 
 When the original Moondrop Chu launched at $20 in 2022, it became the default first-IEM recommendation overnight. The follow-up — the **Chu 2** — keeps the price ($19.99) and the basic recipe but refines the tuning and tightens the build. The question is whether the changes are enough to make this *the* new $20 pick over the Truthear Gate, the 7Hz Salnotes Zero, and the rest of the crowded entry-level field.

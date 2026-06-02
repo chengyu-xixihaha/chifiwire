@@ -13,6 +13,9 @@ tags:
   - harman-target
 description: "Truthear Nova review: $150 1DD+4BA tribrid IEM nailing Harman 2019 V2 target. Best execution under $200. Who it's for, who should skip."
 slug: truthear-nova-review
+rating: 4.5
+price: "149.99"
+brand: "Truthear"
 ---
 
 If you read enough audiophile forums, you'll see two consensus picks for "best execution of the Harman target under $200": the Moondrop Blessing 3 (~$320, technically over budget) and the **Truthear Nova** at $150. The Nova is the cheaper, more accessible option — and many reviewers think it's the better-tuned of the two.

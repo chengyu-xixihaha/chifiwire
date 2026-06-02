@@ -13,6 +13,9 @@ tags:
   - hi-res
 description: "FiiO JM21 review: $200 Android 13 DAP with dual CS43198 DACs, 700mW balanced output, Snapdragon 680. The new sub-$200 DAP benchmark."
 slug: fiio-jm21-review
+rating: 4.5
+price: "199.99"
+brand: "FiiO"
 ---
 
 The dedicated-DAP question keeps coming back: **do you really need one, or is a $9 USB-C dongle enough?** For most casual listeners, the dongle wins. But if you're rotating through demanding IEMs (planars like the Letshuoer S12 Pro), running streaming offline, or just hate having music on the same device that pings you 200 times a day, a DAP earns its keep.

@@ -12,6 +12,9 @@ tags:
   - iem
 description: "Letshuoer S12 Pro review: $160 single 14.8mm planar IEM with V-shaped tuning, modular cable, easy to drive. The technical benchmark for sub-$200 planars."
 slug: letshuoer-s12-pro-review
+rating: 4.5
+price: "159.99"
+brand: "Letshuoer"
 ---
 
 The original Letshuoer S12 ($150) was the IEM that put planar-magnetic drivers on the audiophile budget map back in 2022. The **S12 Pro** is its refined sibling — same 14.8mm planar driver concept, better tuning, better accessories, and a modular cable in the box. At $160, it competes with hybrid and dynamic IEMs that are sonically very different. The question for buyers: **is planar the right pick for you, and is the S12 Pro the right planar?**

@@ -13,6 +13,9 @@ tags:
   - sub-300
 description: "Topping E50 II review: $200 desktop DAC with AKM AK4497S Velvet Sound chip, XMOS XU316, LDAC Bluetooth, 10-band PEQ via app. The skeptical audiophile's pick."
 slug: topping-e50-ii-review
+rating: 4.5
+price: "199.99"
+brand: "Topping"
 ---
 
 The DAC market has a problem: **most listeners can't actually tell DACs apart in blind tests above the $100 mark**. Audio Science Review (ASR) measurements regularly show $200 DACs hitting the same THD+N and SNR floors as $2,000 DACs. So why buy one over the other?
