@@ -86,6 +86,10 @@ menu:
       name: About
       url: /about/
       weight: 60
+    - identifier: disclosure
+      name: Disclosure
+      url: /affiliate-disclosure/
+      weight: 70
 
 related:
   includeNewer: true
