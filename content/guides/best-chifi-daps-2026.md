@@ -1,6 +1,6 @@
 ---
 title: "Best ChiFi DAPs of 2026: From $130 to $800"
-date: 2026-06-02T11:00:00+08:00
+date: 2026-06-02T08:30:00+08:00
 draft: false
 categories:
   - Buying Guides
