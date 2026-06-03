@@ -1,6 +1,6 @@
 ---
-title: "Best ChiFi IEMs Under $100 in 2026: 10 Picks From $20 to $90"
-date: 2026-06-01T17:30:00+08:00
+title: "Best ChiFi IEMs Under $100 in 2026: 11 Picks From $20 to $90"
+date: 2026-06-03T08:55:00+08:00
 draft: false
 categories:
   - Buying Guides
@@ -15,20 +15,22 @@ tags:
   - simgot
   - 7hz
   - dunu
-description: "10 best ChiFi IEMs under $100 in 2026: Moondrop Aria 2, Truthear Hexa, KZ Castor, Simgot EW200, and 6 more — picks by budget, driver type, and use case."
+description: "11 best ChiFi IEMs under $100 in 2026: Truthear Pure (new!), Moondrop Aria 2, Truthear Hexa, Simgot EW300, KZ Castor, and more — sorted by price."
 slug: best-chifi-iems-under-100-2026
 ---
 
+**Updated June 2026** — added Truthear Pure (the new Listener-tuned $90 hybrid that's reshaping the sub-$100 conversation).
+
 The sub-$100 IEM market is the most competitive segment in audio. Chinese brands have spent the last five years undercutting Sennheiser, Sony, and Audio-Technica on the same tier — and they're now better than the legacy brands at this price.
 
-This guide is the **10 picks we'd actually buy** in 2026, sorted by price. Each entry includes the spec, the sound profile, who it's for, and what to skip it for. No filler. No "honorable mentions". 10 picks, real recommendations.
+This guide is the **11 picks we'd actually buy** in 2026, sorted by price. Each entry includes the spec, the sound profile, who it's for, and what to skip it for. No filler. No "honorable mentions". 11 picks, real recommendations.
 
 ## TL;DR — top picks by budget
 
 - **Under $25**: 7Hz Salnotes Zero ($25) or Moondrop Chu 2 ($20)
 - **$40 sweet spot**: Simgot EW200 ($40)
 - **$60-80 sweet spot**: Truthear Hexa ($79) — the technical winner
-- **Best $90 buy**: Moondrop Aria 2 ($89) — the musical winner
+- **Best $90 buys**: **Truthear Pure** ($89) — warmest musical pick / **Moondrop Aria 2** ($89) — single-DD reference
 - **For planar fans under $100**: Skip this range; save for Letshuoer S12 Pro at $160 instead
 
 ## How we picked
@@ -185,6 +187,19 @@ Sound is musical-reference: warmer than Hexa, smoother on top, easy from any sou
 - **Skip if**: You already own the original Aria (incremental upgrade) or you want maximum technical resolution (get Hexa)
 
 [Buy at Linsoul](https://www.linsoul.com/products/moondrop-aria-2) · [Read our full Aria 2 review]({{< ref "reviews/moondrop-aria-2-review" >}})
+
+---
+
+## #11 — Truthear Pure — $89 *(NEW June 2026)*
+
+**1DD + 3BA hybrid, N52 rubidium magnet DD, tuned by Listener (Headphones.com)**
+
+The Pure is Truthear's **warm-leaning answer to the Hexa**, tuned by the same Listener who runs Headphones.com reviews. Lush midrange, more sub-bass authority (the N52 magnet helps), politely rolled-off treble for fatigue-free listening. CNC aluminum faceplate gives it a more premium look than the Hexa.
+
+- **Who it's for**: Vocal-music listeners, anyone who found Hexa slightly bright, "warm" preference at sub-$100
+- **Skip if**: You want technical detail (Hexa wins) or treble sparkle (Hexa or Aria 2)
+
+[Buy at Truthear](https://truthear.com/products/pure) · [Read our full Pure review]({{< ref "reviews/truthear-pure-review" >}}) · [Read our Pure vs Hexa comparison]({{< ref "vs/truthear-pure-vs-hexa" >}})
 
 ---
 
