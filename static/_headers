@@ -1,0 +1,39 @@
+# CF Pages cache config
+#
+# Strategy: short browser cache + long CDN cache + stale-while-revalidate.
+# - 浏览器 max-age=600 (10min): 重访问跳过 304 RT
+# - CDN s-maxage=86400 (1d): edge 缓 1 天，origin 流量大幅降
+# - stale-while-revalidate=604800 (7d): 缓存过期后边返回旧缓存边在后台 revalidate
+# 当我们 push 新文章时，CF Pages 自动 purge 全站 cache —— 不会读到过时内容
+
+/*
+  Cache-Control: public, max-age=600, s-maxage=86400, stale-while-revalidate=604800
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+# Hashed static assets — PaperMod 给 CSS / JS 都加了 content hash
+# /assets/css/stylesheet.<hash>.css，hash 变内容就变 → 安全永久缓存
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 图片 / 字体 — 不带 hash 但变化少，30 天即可
+/*.png
+  Cache-Control: public, max-age=2592000
+/*.jpg
+  Cache-Control: public, max-age=2592000
+/*.webp
+  Cache-Control: public, max-age=2592000
+/*.svg
+  Cache-Control: public, max-age=2592000
+/*.ico
+  Cache-Control: public, max-age=2592000
+/*.woff2
+  Cache-Control: public, max-age=31536000, immutable
+
+# Sitemap / robots / RSS — 内容会变，短缓存
+/sitemap.xml
+  Cache-Control: public, max-age=3600
+/robots.txt
+  Cache-Control: public, max-age=3600
+/index.xml
+  Cache-Control: public, max-age=3600
