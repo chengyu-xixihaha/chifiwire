@@ -97,7 +97,19 @@ Disallow: /
 User-agent: ImagesiftBot
 Disallow: /
 
-# === 通用规则（含 Google / Bing / DuckDuckGo / Yandex / Baidu / ChatGPT-User / Claude-SearchBot / PerplexityBot 等都默认允许）===
+# === Yandex 限频 ===
+# YandexBot 占 chifiwire 32% PV，远超它带回的搜索流量（Yandex 国际市场 <1%）。
+# 不禁（IndexNow 合作方），但用 Crawl-delay 限速。
+User-agent: YandexBot
+Crawl-delay: 30
+Disallow: /wp-admin/
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /search/
+Disallow: /?s=
+Allow: /
+
+# === 通用规则（含 Google / Bing / DuckDuckGo / Baidu / ChatGPT-User / Claude-SearchBot / PerplexityBot 等都默认允许）===
 User-agent: *
 Disallow: /wp-admin/
 Disallow: /wp-includes/
