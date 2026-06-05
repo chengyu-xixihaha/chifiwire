@@ -42,6 +42,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
+  ShowLastMod: true
   disableScrollToTop: false
   ShowToc: true
   TocOpen: false

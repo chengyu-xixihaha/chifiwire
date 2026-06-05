@@ -1,4 +1,28 @@
-{{- /* Product Review schema for review pages with rating + price in frontmatter */ -}}
+{{- /* ───────────────────────────────────────────────────────────────────
+   1. Organization schema (global — every page) — E-E-A-T publisher signal
+   ─────────────────────────────────────────────────────────────────── */ -}}
+{{- if .IsHome -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://chifiwire.com/#organization",
+  "name": "ChiFi Wire",
+  "alternateName": "ChiFi Wire — Chinese Audio Reviews",
+  "url": "https://chifiwire.com/",
+  "logo": "https://chifiwire.com/apple-touch-icon.png",
+  "description": "Honest, in-depth coverage of Chinese hi-fi audio gear for global audiophiles. Reviews, buying guides, and comparisons of IEMs, headphones, DAPs, and DACs.",
+  "founder": {"@type": "Person", "name": "ChiFi Wire Editorial"},
+  "knowsAbout": ["Hi-Fi audio", "In-ear monitors", "Headphones", "Digital audio players", "Chinese audio brands", "Moondrop", "Truthear", "Letshuoer", "FiiO", "Topping", "Tanchjim", "HiBy"],
+  "publishingPrinciples": "https://chifiwire.com/methodology/",
+  "actionableFeedbackPolicy": "https://chifiwire.com/methodology/#contact-and-corrections"
+}
+</script>
+{{- end -}}
+
+{{- /* ───────────────────────────────────────────────────────────────────
+   2. Product Review schema for review pages with rating in frontmatter
+   ─────────────────────────────────────────────────────────────────── */ -}}
 {{- if and .IsPage (in .Params.categories "Reviews") (.Params.rating) -}}
 {{- $price := default "" .Params.price -}}
 {{- $brand := default "" .Params.brand -}}
@@ -42,9 +66,13 @@
   "publisher": {
     "@type": "Organization",
     "name": "ChiFi Wire",
-    "url": "https://chifiwire.com/"
+    "url": "https://chifiwire.com/",
+    "logo": "https://chifiwire.com/apple-touch-icon.png"
   },
   "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  {{- if .Lastmod }}
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  {{- end }}
   "reviewRating": {
     "@type": "Rating",
     "ratingValue": "{{ $rating }}",
