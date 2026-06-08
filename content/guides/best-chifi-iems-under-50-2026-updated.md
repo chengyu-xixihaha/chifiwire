@@ -1,7 +1,7 @@
 ---
 title: "Best ChiFi IEMs Under $50 in 2026: 8 Picks From $20 to $50"
-date: 2026-06-08T14:00:00+08:00
-lastmod: 2026-06-08T14:00:00+08:00
+date: 2026-06-08T10:00:00+08:00
+lastmod: 2026-06-08T10:00:00+08:00
 draft: false
 categories:
   - Buying Guides

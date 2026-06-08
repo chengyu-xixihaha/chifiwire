@@ -1,7 +1,7 @@
 ---
 title: "New Meta IEM Tuning Explained: What JM-1 + 10dB Tilt Actually Means"
-date: 2026-06-08T13:45:00+08:00
-lastmod: 2026-06-08T13:45:00+08:00
+date: 2026-06-08T09:45:00+08:00
+lastmod: 2026-06-08T09:45:00+08:00
 draft: false
 categories:
   - Buying Guides

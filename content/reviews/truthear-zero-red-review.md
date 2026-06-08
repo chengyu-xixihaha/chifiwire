@@ -1,7 +1,7 @@
 ---
 title: "Truthear Zero Red Review (2026): The $55 Bass-Head Pick from Crinacle"
-date: 2026-06-08T14:15:00+08:00
-lastmod: 2026-06-08T14:15:00+08:00
+date: 2026-06-08T10:15:00+08:00
+lastmod: 2026-06-08T10:15:00+08:00
 draft: false
 categories:
   - Reviews
