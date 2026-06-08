@@ -1,6 +1,7 @@
 ---
-title: "Truthear Nova Review: The $150 Tribrid That Hits Harman Dead Center"
+title: "Truthear Nova Review (2026): The $150 Tribrid Worth Buying?"
 date: 2026-06-01T11:00:00+08:00
+lastmod: 2026-06-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -11,7 +12,7 @@ tags:
   - 1dd-4ba
   - tribrid
   - harman-target
-description: "Truthear Nova review: $150 1DD+4BA tribrid IEM nailing Harman 2019 V2 target. Best execution under $200. Who it's for, who should skip."
+description: "Truthear Nova review (June 2026): $150 1DD+4BA tribrid IEM nailing Harman 2019 V2 target. Vs Hexa, vs Pure, vs S12 Pro — 4 weeks of listening verdict."
 slug: truthear-nova-review
 rating: 4.5
 price: "149.99"

@@ -1,6 +1,7 @@
 ---
-title: "Moondrop Aria 2 Review: The Sub-$100 Benchmark, Refined"
+title: "Moondrop Aria 2 Review (2026): $89 Single-DD IEM, Tested Honest"
 date: 2026-06-01T15:00:00+08:00
+lastmod: 2026-06-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -11,7 +12,7 @@ tags:
   - single-dynamic-driver
   - sub-100
   - vdsf
-description: "Moondrop Aria 2 review: $89 single-dynamic IEM with TiN ceramic dome driver, modular 3.5/4.4mm cable, VDSF tuning. Refined, but is it worth upgrading?"
+description: "Moondrop Aria 2 review (June 2026): $89 single-DD IEM with TiN ceramic diaphragm + modular 3.5/4.4mm cable. Vs original Aria, vs Hexa, vs Pure — what's actually better."
 slug: moondrop-aria-2-review
 rating: 4.5
 price: "89.99"
