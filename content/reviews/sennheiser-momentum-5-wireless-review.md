@@ -57,9 +57,9 @@ Birney's whole framing is *durability*, not *sound*. He doesn't claim the Moment
 
 **Bose QC Ultra Gen 2 ($449)** — Headphones.com called the fit "potentially more comfortable" and singled out Bose's CustomTune, which measures how the headphone actually performs on your specific head and corrects for it. ANC is roughly comparable to the Momentum 5. If you've struggled with headphone fit, Bose is the safer buy.
 
-**B&W Px8 (~$549-$699)** — Worth flagging if you want a warmer, more refined tonality and don't care about top-tier ANC. The Momentum 5 is a more practical traveler; B&W is a more musical headphone with weaker noise cancelling.
+**B&W Px8 (~$549-$699)** — Worth flagging if you want a warmer, more refined tonality and don't care about top-tier ANC. The Momentum 5 is a more practical traveler; B&W is a more musical headphone with weaker noise cancelling. For the newer S2 generation specifically, see our [Sony 1000X The Collexion vs B&W PX8 S2 head-to-head]({{< ref "/vs/sony-1000x-collexion-vs-bowers-wilkins-px8-s2" >}}).
 
-**Sennheiser HDB 630 ($499)** — Headphones.com kept circling back to this one. Same chassis, better stock tuning, full parametric EQ, better dongle. If sound quality is your priority and you can find the extra $100, this is the in-house upsell.
+**Sennheiser HDB 630 ($499)** — Headphones.com kept circling back to this one. Same chassis, better stock tuning, full parametric EQ, better dongle. If sound quality is your priority and you can find the extra $100, this is the in-house upsell. If you want wired studio reference instead of wireless travel, our [Sennheiser HD 480 Pro review]({{< ref "/reviews/sennheiser-hd-480-pro-review" >}}) covers the new $399 closed-back contender from the same brand.
 
 **JBL Tour One M3 ($399.99)** — Same price, much more feature-loaded. Carr's pick if you want LDAC, Auracast, the SMART Tx transmitter, and a 12-band EQ. Loses on the replaceable battery.
 

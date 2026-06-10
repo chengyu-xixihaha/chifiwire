@@ -109,3 +109,11 @@ But the unqualified *period* doesn't survive the HD 600 and the HD 660S2. For a 
 Buy it if you need one headphone that tracks vocals, mixes acceptably, isolates against a roommate, and won't make your ears hurt at hour six. Skip it if you already own a 6xx-series and a treated room — you don't need this, and Headphones.com would tell you the same if you cornered them.
 
 At $399, with replaceable pads, a detachable cable, and the cleanest closed-back tuning Sennheiser has shipped in a decade, the HD 480 Pro is the new default closed-back recommendation. The "period" was a flourish. The headphone earned the rest of the headline.
+
+---
+
+## Related reading
+
+- [Sennheiser Momentum 5 Wireless Review]({{< ref "/reviews/sennheiser-momentum-5-wireless-review" >}}) — same brand, $400 wireless flagship for travel instead of studio
+- [Tin HiFi P2 Plus Review]({{< ref "/reviews/tin-hifi-p2-plus-review" >}}) — wired planar flagship if you have amp power
+- [Best ChiFi Headphone Amps Under $200 (2026)]({{< ref "/guides/best-chifi-headphone-amps-under-200-2026" >}}) — source pairing

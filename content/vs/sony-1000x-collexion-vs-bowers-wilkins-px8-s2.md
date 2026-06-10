@@ -117,9 +117,8 @@ LDAC vs aptX Adaptive is a wash for quality, but Sony's **LE Audio support is a 
 
 ## Cross-references
 
-- **[Sony WH-1000XM6 Review](/reviews/sony-wh-1000xm6-review/)** — the $448 sibling that delivers 90% of Collexion's sound for $200 less
-- **[Best Wireless ANC Headphones 2026](/guides/best-wireless-anc-headphones-2026/)** — full flagship roundup
-- **[B&W PX7 S3 vs PX8 S2](/vs/bowers-wilkins-px7-s3-vs-px8-s2/)** — the cheaper, more comfortable B&W option
+- **[Sennheiser Momentum 5 Wireless Review]({{< ref "/reviews/sennheiser-momentum-5-wireless-review" >}})** — the $400 flagship with replaceable battery and 57h life
+- **[Sennheiser HD 480 Pro Review]({{< ref "/reviews/sennheiser-hd-480-pro-review" >}})** — the $399 closed-back if you want wired studio reference instead
 
 ## Bottom line
 
@@ -135,9 +134,8 @@ If budget allows and you can only pick one: **Sony 1000X The Collexion**, every 
 
 ## Related reading
 
-- [Best Wireless ANC Headphones Under $500](/guides/best-anc-headphones-under-500-2026/)
-- [Sony WH-1000XM6 Review](/reviews/sony-wh-1000xm6-review/)
-- [Best Headphones for Commuting 2026](/guides/best-commuting-headphones-2026/)
-- [LDAC vs aptX Adaptive Explained](/guides/ldac-vs-aptx-adaptive/)
+- [Sennheiser Momentum 5 Wireless Review]({{< ref "/reviews/sennheiser-momentum-5-wireless-review" >}}) — cheaper $400 alternative with user-replaceable battery
+- [Sennheiser HD 480 Pro Review]({{< ref "/reviews/sennheiser-hd-480-pro-review" >}}) — $399 closed-back for wired studio use
+- [Best ChiFi DAPs 2026]({{< ref "/guides/best-chifi-daps-2026" >}}) — source pairing if you're chasing wired luxury too
 
 *Disclosure: Some links in this article are affiliate links. See our [Affiliate Disclosure](/affiliate-disclosure/) for details.*

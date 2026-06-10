@@ -120,6 +120,14 @@ The S08 is also single DD with a Harman-derived tuning. Letshuoer leans **slight
 
 ---
 
+## Related reading
+
+- [Moondrop Aria 2 vs Truthear Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) — direct head-to-head with the dominant sub-$100 competitor
+- [Truthear Hexa Review]({{< ref "/reviews/truthear-hexa-review" >}}) — the $79 hybrid that defined sub-$100 ChiFi
+- [DUNU DN142 vs DN242]({{< ref "/vs/dunu-dn142-vs-dn242" >}}) — if you want to step up to $250-350 IEMs
+
+---
+
 **Where to buy** *(prices verified at time of publication)*
 
 - [Moondrop official store](https://moondroplab.com/en/products/aria2) — $89.99
