@@ -11,7 +11,7 @@ tags:
   - sub-25
   - budget-iem
   - detachable-cable
-description: "Truthear Gate review: $22 single-DD IEM with LCP diaphragm and detachable 2-pin cable. The Chu 2 alternative that's worth $2 more."
+description: "Truthear Gate review: the $22 IEM that includes a mic cable and detachable 2-pin. Better for calls and vocals than the Chu 2. Full sound analysis and who should buy it."
 slug: truthear-gate-review
 rating: 4.0
 price: "21.99"
