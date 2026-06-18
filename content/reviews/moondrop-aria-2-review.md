@@ -10,7 +10,6 @@ tags:
   - moondrop-aria-2
   - iem
   - single-dynamic-driver
-description: "Moondrop Aria 2 review: $89 single-DD IEM with Harman-adjacent tuning. Is it still the best all-rounder under $100 in 2026? Full sound, build, and value breakdown."
   - sub-100
   - vdsf
   - budget-iem

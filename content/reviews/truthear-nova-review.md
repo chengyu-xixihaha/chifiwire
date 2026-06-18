@@ -10,7 +10,6 @@ tags:
   - truthear-nova
   - iem
   - 1dd-4ba
-description: "Truthear Nova review: $149 dual-dynamic driver IEM with exceptional vocal clarity. Honest comparison to the Hexa — when to upgrade and when to skip."
   - tribrid
   - harman-target
 description: "Short answer: yes. The $149 Nova beats the Hexa in technicalities and outdoes Zero:Red in resolution. Our 4-week verdict on Truthear's best IEM yet."
