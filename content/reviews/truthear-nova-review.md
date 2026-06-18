@@ -150,4 +150,13 @@ The Blessing 3 is the next step up — same Harman-target philosophy, more refin
 - [HiFiGo](https://hifigo.com/) — search "Nova"
 - [Crinacle's Hangout](https://hangout.audio/products/truthear-nova) — recommended by community
 
+---
+
+## Related reading
+
+- [Moondrop Blessing 3 vs Truthear Nova]({{< ref "vs/moondrop-blessing-3-vs-truthear-nova" >}}) — is the $170 upgrade worth it?
+- [Moondrop Blessing 3 Review]({{< ref "reviews/moondrop-blessing-3-review" >}}) — the next step up from the Nova
+- [Truthear Hexa Review]({{< ref "reviews/truthear-hexa-review" >}}) — Truthear's sub-$80 entry point
+- [Best ChiFi IEMs Under $200 in 2026]({{< ref "guides/best-chifi-iems-under-200-2026" >}})
+
 *Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*

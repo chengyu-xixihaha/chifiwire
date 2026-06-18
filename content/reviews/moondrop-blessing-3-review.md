@@ -147,6 +147,7 @@ The EA1000 Fermat punches at the Blessing 3's level in bass slam and treble exte
 
 ## Related reading
 
+- [Moondrop Blessing 3 vs Truthear Nova]({{< ref "vs/moondrop-blessing-3-vs-truthear-nova" >}}) — is the $170 upgrade worth it? Full head-to-head
 - [Truthear Nova Review]({{< ref "reviews/truthear-nova-review" >}}) — the $149 stepping stone to the Blessing 3's tier
 - [Moondrop Aria 2 Review]({{< ref "reviews/moondrop-aria-2-review" >}}) — Moondrop's sub-$100 alternative
 - [Letshuoer Cadenza 12 Review]({{< ref "reviews/letshuoer-cadenza-12-review" >}}) — V-shape alternative at similar price
