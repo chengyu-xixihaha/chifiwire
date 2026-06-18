@@ -234,6 +234,17 @@ The Zero Red is **the best bass-head IEM under $60 in 2026**. If that's your use
 
 ---
 
+**Where to buy** *(prices verified at time of publication)*
+
+- [Truthear official store](https://truthear.com/products/zero-red) — $54.99
+- [Linsoul](https://www.linsoul.com/products/truthear-zero-red) — $54.99 (free shipping over $50)
+- [HiFiGo](https://hifigo.com/) — search "Truthear Zero Red"
+- [Apos Audio](https://apos.audio/) — US warehouse
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*
+
+---
+
 ## Related reading
 
 - [Truthear Hexa Review](/reviews/truthear-hexa-review/)

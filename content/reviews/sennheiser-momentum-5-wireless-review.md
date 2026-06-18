@@ -91,3 +91,13 @@ None of these replace the Momentum 5 on a plane. All three out-resolve it at a d
 - **Aggressive EQ users** — the 8-band graphic EQ is limiting vs Sony's 10-band or the HDB 630's PEQ
 
 The Momentum 5 isn't the best-sounding $400 headphone. It might be the best-engineered one. Whether that trade lands depends entirely on how long you plan to own it.
+
+---
+
+**Where to buy** *(prices verified at time of publication)*
+
+- [Sennheiser official store](https://www.sennheiser-hearing.com/en-US/p/momentum-5-wireless/) — $399.95
+- [Amazon](https://www.amazon.com/s?k=sennheiser+momentum+5+wireless) — check for current pricing
+- [Best Buy](https://www.bestbuy.com/site/searchpage.jsp?st=sennheiser+momentum+5) — in-store demo available
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*

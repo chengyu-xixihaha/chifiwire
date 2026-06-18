@@ -139,6 +139,17 @@ The Hexa wins on **technical performance per dollar**. The others win on **speci
 
 ---
 
+**Where to buy** *(prices verified at time of publication)*
+
+- [Truthear official store](https://truthear.com/products/hexa) — $79.99
+- [Linsoul](https://www.linsoul.com/products/truthear-hexa) — $79.99 (free shipping over $50)
+- [HiFiGo](https://hifigo.com/) — search "Truthear Hexa"
+- [Apos Audio](https://apos.audio/) — US warehouse, faster domestic shipping
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*
+
+---
+
 ## Related reading
 
 - [Truthear Hexa vs Moondrop Aria 2]({{< ref "vs/truthear-hexa-vs-moondrop-aria-2" >}}) — direct competitor at same tier

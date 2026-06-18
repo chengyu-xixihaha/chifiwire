@@ -88,3 +88,14 @@ If you want honest: buy this.
 - Build quality: 7/10
 - Comfort: 9/10
 - Value: 9/10
+
+---
+
+**Where to buy** *(prices verified at time of publication)*
+
+- [Sennheiser official store](https://www.sennheiser-hearing.com/en-US/p/hd-560s/) — $199.95
+- [Amazon](https://www.amazon.com/s?k=sennheiser+hd+560s) — check for current pricing and bundles
+- [Sweetwater](https://www.sweetwater.com/store/search.php?s=sennheiser+hd+560s) — US music retail
+- [B&H Photo](https://www.bhphotovideo.com/c/search?Ntt=sennheiser+hd+560s) — US dealer
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*

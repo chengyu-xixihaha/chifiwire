@@ -112,6 +112,17 @@ At $399, with replaceable pads, a detachable cable, and the cleanest closed-back
 
 ---
 
+**Where to buy** *(prices verified at time of publication)*
+
+- [Sennheiser official store](https://www.sennheiser-hearing.com/en-US/p/hd-480-pro/) — $399.95
+- [Amazon](https://www.amazon.com/s?k=sennheiser+hd+480+pro) — check for current pricing
+- [Sweetwater](https://www.sweetwater.com/store/search.php?s=sennheiser+hd+480+pro) — US music retail
+- [B&H Photo](https://www.bhphotovideo.com/c/search?Ntt=sennheiser+hd+480+pro) — US dealer
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*
+
+---
+
 ## Related reading
 
 - [Sennheiser Momentum 5 Wireless Review]({{< ref "/reviews/sennheiser-momentum-5-wireless-review" >}}) — same brand, $400 wireless flagship for travel instead of studio

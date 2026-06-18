@@ -85,6 +85,17 @@ The honest qualifier is that "best Beyerdynamic closed-back" is not the same as 
 
 ---
 
+**Where to buy** *(prices verified at time of publication)*
+
+- [Beyerdynamic official store](https://north-america.beyerdynamic.com/) — $149
+- [Amazon](https://www.amazon.com/s?k=beyerdynamic+dt+270+pro) — check for current pricing
+- [B&H Photo](https://www.bhphotovideo.com/c/search?Ntt=beyerdynamic+dt+270+pro) — US dealer
+- [Sweetwater](https://www.sweetwater.com/store/search.php?s=beyerdynamic+dt+270+pro) — US music retail
+
+*Disclosure: Some links are affiliate links. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*
+
+---
+
 ## Related reading
 
 - [Sennheiser HD 480 Pro Review]({{< ref "/reviews/sennheiser-hd-480-pro-review" >}}) — $399 closed-back, Headphones.com's "best studio headphone period" at a higher price tier
