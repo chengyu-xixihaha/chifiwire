@@ -1,7 +1,7 @@
 ---
-title: "Sennheiser HD 480 Pro Review: Is It Really the Best Studio Headphone Period?"
+title: "Sennheiser HD 480 Pro Review: Closed-Back Studio Headphone Worth $399?"
 date: 2026-06-10T09:30:00+08:00
-lastmod: 2026-06-10T09:30:00+08:00
+lastmod: 2026-06-20T09:00:00+08:00
 draft: false
 categories:
   - Reviews

@@ -1,7 +1,7 @@
 ---
-title: "Moondrop Aria 2 Review ($89): Best Budget IEM in 2026 or Overrated?"
+title: "Moondrop Aria 2 Review ($89): Warm, Detailed, and the Best IEM Under $100"
 date: 2026-06-01T15:00:00+08:00
-lastmod: 2026-06-12T10:00:00+08:00
+lastmod: 2026-06-20T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -14,7 +14,7 @@ tags:
   - vdsf
   - budget-iem
   - chifi
-description: "Moondrop Aria 2 review: $89, TiN ceramic driver, modular cable upgrade. Tested against Truthear Hexa and 7Hz Salnotes Zero 2. Worth buying in 2026?"
+description: "Moondrop Aria 2 review: $89, TiN ceramic DD, modular cable. Warmer and more musical than the Hexa. Our verdict after extended listening: it earns the recommendation."
 slug: moondrop-aria-2-review
 rating: 4.5
 price: "89.99"
