@@ -51,7 +51,7 @@ Skip it if:
 - You want **warm, lush, vocal-flattering tone** → [Pure]({{< ref "reviews/truthear-pure-review" >}}) or Moondrop Aria 2
 - You're treble-sensitive — Hexa's BAs deliver real treble extension
 - You exclusively listen to acoustic / classical — planar [S12 Pro]({{< ref "reviews/letshuoer-s12-pro-review" >}}) sounds more "real"
-- You want maximum sub-bass slam — Truthear Zero Red has more
+- You want maximum sub-bass slam — [Truthear Zero Red]({{< ref "reviews/truthear-zero-red-review" >}}) has more
 
 ## Sound impressions
 
@@ -108,7 +108,7 @@ A good source unlocks the Hexa's resolution. Don't pair with low-quality dongles
 | **Truthear Pure** | Warmth / vocal presence / mids | [Want warm musical tuning instead]({{< ref "vs/truthear-pure-vs-hexa" >}}) |
 | **Moondrop Aria 2** | Warmth / coherence / single-DD timbre | [Want lush warm tonality]({{< ref "vs/truthear-hexa-vs-moondrop-aria-2" >}}) |
 | **Simgot EW200** | Detail / treble (without BAs) | Want single-DD with similar detail |
-| **Truthear Zero Red** | Bass slam / "fun" sound | Bass-head preference |
+| [**Truthear Zero Red**]({{< ref "reviews/truthear-zero-red-review" >}}) | Bass slam / "fun" sound | Bass-head preference |
 
 The Hexa wins on **technical performance per dollar**. The others win on **specific tonal characteristics**.
 
@@ -116,7 +116,7 @@ The Hexa wins on **technical performance per dollar**. The others win on **speci
 
 - **Vocals can feel slightly distant** — if vocals are your primary focus, Pure or Aria 2 are better
 - **Treble is real treble** — if you're treble-sensitive, EQ down 7-9 kHz or pick warm alternatives
-- **Bass slam is moderate** — clean over impactful; bass-heads want Zero Red instead
+- **Bass slam is moderate** — clean over impactful; bass-heads want [Zero Red]({{< ref "reviews/truthear-zero-red-review" >}}) instead
 - **Shell can be a tight fit** for small ears (check [small ears guide]({{< ref "guides/best-chifi-iems-for-small-ears" >}}))
 - **No 4.4mm balanced cable included** — pure SE; balanced cable is extra
 

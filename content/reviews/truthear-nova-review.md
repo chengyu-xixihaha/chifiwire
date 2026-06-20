@@ -49,7 +49,7 @@ The standout combination: **4 BAs handle mids and treble, while a 10mm LCP+PU dy
 
 Skip it if:
 - You want excitement, color, or a V-shape (Nova is intentionally polite)
-- You want maximum sub-bass slam (Truthear Zero Red is more bass-forward at less money)
+- You want maximum sub-bass slam ([Truthear Zero Red]({{< ref "reviews/truthear-zero-red-review" >}}) is more bass-forward at less money)
 - You want fewer BAs for "natural timbre" reasons (Tanchjim Origin's single DD is the alternative)
 
 ## Build, fit, accessories
