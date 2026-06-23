@@ -92,6 +92,20 @@ menu:
       url: /affiliate-disclosure/
       weight: 70
 
+  footer:
+    - identifier: privacy
+      name: Privacy Policy
+      url: /privacy-policy/
+      weight: 10
+    - identifier: disclosure-footer
+      name: Affiliate Disclosure
+      url: /affiliate-disclosure/
+      weight: 20
+    - identifier: about-footer
+      name: About
+      url: /about/
+      weight: 30
+
 related:
   includeNewer: true
   threshold: 60
