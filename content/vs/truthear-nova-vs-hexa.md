@@ -1,7 +1,7 @@
 ---
 title: "Truthear Nova vs Hexa: Is the $150 Upgrade Worth It Over the $79 Original?"
 date: 2026-06-05T08:00:00+08:00
-lastmod: 2026-06-05T08:00:00+08:00
+lastmod: 2026-06-24T09:00:00+08:00
 draft: false
 categories:
   - Comparisons
