@@ -1,7 +1,7 @@
 ---
 title: "Sennheiser HD 480 Pro Review: Closed-Back Studio Headphone Worth $399?"
 date: 2026-06-10T09:30:00+08:00
-lastmod: 2026-06-20T09:00:00+08:00
+lastmod: 2026-06-24T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -125,6 +125,7 @@ At $399, with replaceable pads, a detachable cable, and the cleanest closed-back
 
 ## Related reading
 
+- [Sennheiser HD 600 vs HD 550]({{< ref "/vs/sennheiser-hd600-vs-hd550" >}}) — the open-back pair this review keeps measuring against, compared head to head
 - [Sennheiser Momentum 5 Wireless Review]({{< ref "/reviews/sennheiser-momentum-5-wireless-review" >}}) — same brand, $400 wireless flagship for travel instead of studio
 - [Tin HiFi P2 Plus Review]({{< ref "/reviews/tin-hifi-p2-plus-review" >}}) — wired planar flagship if you have amp power
 - [Best ChiFi Headphone Amps Under $200 (2026)]({{< ref "/guides/best-chifi-headphone-amps-under-200-2026" >}}) — source pairing
