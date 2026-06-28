@@ -1,6 +1,7 @@
 ---
 title: "Truthear Gate Review: $22 IEM With the Cable That Matters"
 date: 2026-06-02T07:15:00+08:00
+lastmod: 2026-06-28T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -163,6 +164,25 @@ Hexa is 3.5x the price and **technically much better** — 4 drivers, more detai
 
 ---
 
+## Frequently asked questions
+
+**Does the Truthear Gate have a microphone?**
+Yes — the Gate ships with an **inline-mic cable**, so it works for calls, meetings, and gaming out of the box. And because the cable is detachable 0.78mm 2-pin, you can swap to a mic-free or balanced cable later without replacing the IEM. The built-in mic is one of the main reasons to pick the Gate over the Moondrop Chu 2 at this price.
+
+**What are the Truthear Gate's specs?**
+Single 10mm LCP dynamic driver, **16 Ω impedance, 120 dB/Vrms sensitivity**, 20 Hz – 20 kHz, detachable 0.78mm 2-pin cable (3.5mm SE), resin shell with metal faceplate. MSRP **$21.99**.
+
+**Truthear Gate vs Moondrop Chu 2 — which is better?**
+Default to the Gate for the **detachable cable, inline mic, more sub-bass slam, and treble sparkle**. Pick the Chu 2 if you prefer a metal shell, more vocal-forward tuning, or smoother (less sibilant) treble. Full breakdown: [Chu 2 vs Truthear Gate]({{< ref "/vs/moondrop-chu-2-vs-truthear-gate" >}}).
+
+**Does the Truthear Gate need an amp?**
+No. At 16 Ω and 120 dB it's louder and easier to drive than the Chu 2 — a phone or any dongle is plenty. It's a "plug and forget" IEM that doesn't scale meaningfully with better sources.
+
+**Is the Truthear Gate a good first IEM?**
+Yes — it's our pick for the right $20-tier starter in 2026, mainly because the detachable cable and inline mic make it more future-proof and versatile than fixed-cable rivals. If you later catch the upgrade bug, the [Truthear Hexa]({{< ref "/reviews/truthear-hexa-review" >}}) and [Nova]({{< ref "/reviews/truthear-nova-review" >}}) are the natural next steps.
+
+---
+
 **Where to buy** *(prices verified at time of publication)*
 
 - [Linsoul](https://www.linsoul.com/products/truthear-gate) — $21.99
@@ -171,3 +191,12 @@ Hexa is 3.5x the price and **technically much better** — 4 drivers, more detai
 - [Amazon](https://www.amazon.com/) — search "Truthear Gate"
 
 *Disclosure: Some links are affiliate links. See our [Affiliate Disclosure](/affiliate-disclosure/) for details. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*
+
+---
+
+## Related reading
+
+- [Chu 2 vs Truthear Gate]({{< ref "/vs/moondrop-chu-2-vs-truthear-gate" >}}) — the two $20 single-DD picks, head to head
+- [Truthear Gate vs Nova]({{< ref "/vs/truthear-gate-vs-truthear-nova" >}}) — the $22 starter against Truthear's $150 reference
+- [Truthear Hexa Review]({{< ref "/reviews/truthear-hexa-review" >}}) — the $79 hybrid most Gate owners upgrade to
+- [Best ChiFi IEMs under $30 (2026)]({{< ref "/guides/best-chifi-iems-under-30-2026" >}}) — where the Gate ranks in the entry tier
