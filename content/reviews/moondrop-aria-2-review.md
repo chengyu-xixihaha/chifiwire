@@ -1,7 +1,7 @@
 ---
 title: "Moondrop Aria 2 Review ($89): Warm, Detailed, and the Best IEM Under $100"
 date: 2026-06-01T15:00:00+08:00
-lastmod: 2026-06-20T09:00:00+08:00
+lastmod: 2026-06-28T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -122,11 +122,40 @@ The S08 is also single DD with a Harman-derived tuning. Letshuoer leans **slight
 
 ---
 
+## Frequently asked questions
+
+**What are the Moondrop Aria 2's specs — impedance and sensitivity?**
+The Aria 2 uses a single 10mm dynamic driver with a TiN ceramic-coated composite diaphragm. Impedance is **33 Ω ± 15% @ 1kHz**, sensitivity is **122 dB/Vrms @ 1kHz**, frequency response is 16 Hz – 22 kHz, and THD is ≤ 0.05% @ 1kHz. The shell is CNC-milled zinc alloy with a replaceable brass nozzle, and the 0.78mm 2-pin cable ships with both 3.5mm single-ended and 4.4mm balanced plugs.
+
+**Does the Moondrop Aria 2 need an amp?**
+No. At 33 Ω and 122 dB/Vrms the Aria 2 is highly efficient — a phone dongle, laptop headphone jack, or any basic USB-C DAC will drive it to loud, clean volume with headroom to spare. A dedicated amp won't change the tuning or "unlock" the sound; spend that money on better eartips instead.
+
+**When was the Moondrop Aria 2 released and how much does it cost?**
+Moondrop released the Aria 2 in 2026 at an MSRP of **$89.99**, succeeding the original 2021 Aria. It's stocked at Moondrop's official store, Linsoul, HiFiGo, Apos Audio, and Bloom Audio — see the links below.
+
+**Moondrop Aria 2 vs Truthear Hexa vs Truthear Nova — which should I buy?**
+The Aria 2 is the warm, musical single-DD pick; the Hexa is the brighter, more analytical hybrid; the Nova is the more technical, treble-forward step up. We break each pairing down in [Aria 2 vs Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) and [Aria 2 vs Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}).
+
+**Does the Aria 2 come with a balanced cable?**
+Yes. Unlike the original Aria, the Aria 2 includes **modular 3.5mm and 4.4mm plugs in the box** — no separate balanced-cable purchase needed.
+
+**Should I upgrade from the original Aria to the Aria 2?**
+Only if your original is failing or you specifically want the modular cable and warmer mid-bass. It's a refinement, not a generational leap — see our [Aria vs Aria 2 comparison]({{< ref "/guides/moondrop-aria-vs-aria-2-comparison" >}}) for the full breakdown.
+
+**What are the best eartips for the Aria 2?**
+The stock silicone tips are merely adequate. Budget another $10 for Spinfit CP145 or Moondrop Spring Tips — a better seal directly improves the bass response.
+
+---
+
 ## Related reading
 
 - [Moondrop Aria 2 vs Truthear Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) — direct head-to-head with the dominant sub-$100 competitor
+- [Moondrop Aria 2 vs Truthear Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}) — stepping up to the more technical, treble-forward Nova
+- [Truthear Pure vs Moondrop Aria 2]({{< ref "/vs/truthear-pure-vs-moondrop-aria-2" >}}) — single-DD warmth against Truthear's reference tuning
+- [Moondrop Aria vs Aria 2]({{< ref "/guides/moondrop-aria-vs-aria-2-comparison" >}}) — original vs sequel, is the upgrade worth it
+- [Best ChiFi IEMs under $100 (2026)]({{< ref "/guides/best-chifi-iems-under-100-2026" >}}) — where the Aria 2 lands in the sub-$100 field
+- [Moondrop IEM lineup guide (2026)]({{< ref "/guides/moondrop-iem-lineup-complete-guide-2026" >}}) — Chu 2 to Blessing, the whole ladder
 - [Truthear Hexa Review]({{< ref "/reviews/truthear-hexa-review" >}}) — the $79 hybrid that defined sub-$100 ChiFi
-- [DUNU DN142 vs DN242]({{< ref "/vs/dunu-dn142-vs-dn242" >}}) — if you want to step up to $250-350 IEMs
 
 ---
 

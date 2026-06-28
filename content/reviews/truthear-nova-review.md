@@ -1,7 +1,7 @@
 ---
 title: "Truthear Nova Review ($149): The Best Harman IEM Under $200"
 date: 2026-06-01T11:00:00+08:00
-lastmod: 2026-06-20T09:00:00+08:00
+lastmod: 2026-06-28T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -143,6 +143,25 @@ The Blessing 3 is the next step up — same Harman-target philosophy, more refin
 
 ---
 
+## Frequently asked questions
+
+**Truthear Nova vs Hexa — is the Nova worth double the price?**
+The Hexa ($79) is the entry point to Truthear's house sound; the Nova ($149) is the mature execution — one more BA, better mid coherence, more refined treble, and improved sub-bass. If you can swing it, the Nova is worth the 2x; the Hexa gets you ~80% of the way. Full breakdown in [Truthear Nova vs Hexa]({{< ref "/vs/truthear-nova-vs-hexa" >}}).
+
+**What are the Truthear Nova's specs — impedance and sensitivity?**
+The Nova is a 1DD + 4BA tribrid with **14.8 Ω impedance** and **123 dB/Vrms sensitivity**, frequency response 8 Hz – 40 kHz, THD <1% @ 1kHz/94dB. The 10mm LCP+PU dynamic handles bass while four balanced armatures cover mids and highs. Cable is 4-strand 448-core OCC, 0.78mm 2-pin, 3.5mm single-ended only.
+
+**Does the Truthear Nova need an amp?**
+No. At 14.8 Ω and 123 dB/Vrms it's trivial to drive — any phone or dongle gets it loud. That said, the Nova *scales*: a better source (Moondrop Dawn Pro, FiiO JM21, iFi Hip-DAC) tightens the bass and opens the stage. Forgiving of weak sources, rewarding of good ones.
+
+**Truthear Nova vs Moondrop Aria 2 — which is better?**
+Different goals. The Aria 2 ($89) is warmer, mid-forward, "musical reference"; the Nova is more neutral, more technical, "true reference." Warm and lush → Aria 2. Accurate and clean → Nova. See [Aria 2 vs Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}).
+
+**Is the Truthear Nova a Harman-tuned IEM?**
+Yes — it targets **Harman IE 2019 V2** (Harman with an added sub-bass shelf) and hits it within a few dB across the whole frequency response, which is why it's one of the cleanest neutral IEMs under $200.
+
+---
+
 **Where to buy** *(prices verified at time of publication)*
 
 - [Truthear official store](https://truthear.com/products/nova) — $149.99
@@ -154,8 +173,11 @@ The Blessing 3 is the next step up — same Harman-target philosophy, more refin
 
 ## Related reading
 
+- [Truthear Nova vs Hexa]({{< ref "/vs/truthear-nova-vs-hexa" >}}) — the most-asked Truthear comparison, head-to-head
+- [Truthear Gate vs Nova]({{< ref "/vs/truthear-gate-vs-truthear-nova" >}}) — the $20 budget pick against the $150 reference
+- [AFUL Explorer vs Truthear Nova]({{< ref "/vs/aful-explorer-vs-truthear-nova" >}}) — two neutral tribrids compared
+- [Moondrop Aria 2 vs Truthear Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}) — warm musical vs neutral technical
 - [Moondrop Blessing 3 vs Truthear Nova]({{< ref "vs/moondrop-blessing-3-vs-truthear-nova" >}}) — is the $170 upgrade worth it?
-- [Moondrop Blessing 3 Review]({{< ref "reviews/moondrop-blessing-3-review" >}}) — the next step up from the Nova
 - [Truthear Hexa Review]({{< ref "reviews/truthear-hexa-review" >}}) — Truthear's sub-$80 entry point
 - [Best ChiFi IEMs Under $200 in 2026]({{< ref "guides/best-chifi-iems-under-200-2026" >}})
 
