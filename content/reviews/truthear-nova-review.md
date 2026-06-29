@@ -17,6 +17,10 @@ slug: truthear-nova-review
 rating: 4.5
 price: "149.99"
 brand: "Truthear"
+cover:
+  image: "https://chifiwire.com/images/reviews/truthear-nova.jpg"
+  alt: "Truthear Nova in-ear monitors, blue seashell faceplate"
+  caption: "Truthear Nova — official product image"
 ---
 
 If you read enough audiophile forums, you'll see two consensus picks for "best execution of the Harman target under $200": the Moondrop Blessing 3 (~$320, technically over budget) and the **Truthear Nova** at $150. The Nova is the cheaper, more accessible option — and many reviewers think it's the better-tuned of the two.
