@@ -1,6 +1,7 @@
 ---
 title: "Best ChiFi IEMs for Gaming in 2026: FPS, Esports, Casual"
 date: 2026-06-03T08:30:00+08:00
+lastmod: 2026-06-29T09:00:00+08:00
 draft: false
 categories:
   - Buying Guides
@@ -130,6 +131,17 @@ S08 leans warmer than Hexa with similar detail. **Better for RPG / story-driven 
 
 ---
 
+## Also worth knowing — the gaming-bundle pick
+
+### Simgot EG280 ($79) — built-for-gaming hybrid with a bundled DAC
+
+If you'd rather buy a kit than assemble one, the [Simgot EG280]({{< ref "/reviews/simgot-eg280-review" >}}) is the only pick here that ships **with a USB-C DAC dongle and FPS/MOBA EQ presets** in the box. It's a 1DD + **6mm planar tweeter** hybrid with a very open stage and precise imaging — exactly what positional audio wants — tuned crisp and detail-forward rather than warm. The dongle isn't endgame, but for a phone/console gamer who wants one purchase and no extra dongle to shop for, it's the most convenient gaming-first option on this list.
+
+**Best for**: phone / console / handheld gamers who want a complete gaming kit in one box
+**Less ideal for**: music-first listeners (the dry tuning is built for footsteps, not vocals)
+
+---
+
 ## Quick-decision matrix
 
 | Your gaming style | Pick |
@@ -141,6 +153,7 @@ S08 leans warmer than Hexa with similar detail. **Better for RPG / story-driven 
 | Budget under $50 | **KZ Castor (Harman)** or **Simgot EW200** |
 | Premium one-IEM-for-everything | **Tanchjim Origin** |
 | Console / handheld (phone, Switch) | **KZ Castor** or **Aria 2** (easy to drive) |
+| Want a complete kit (IEM + DAC + presets) | **Simgot EG280** |
 
 ## What about Bluetooth IEMs for gaming?
 
@@ -169,6 +182,7 @@ Even these are worse than a wired IEM connected to your phone's 3.5mm jack or vi
 
 ## Related reading
 
+- [Simgot EG280 Review]({{< ref "/reviews/simgot-eg280-review" >}}) — the gaming-bundle hybrid with a built-in DAC
 - [Best ChiFi IEMs Under $100 in 2026]({{< ref "guides/best-chifi-iems-under-100-2026" >}})
 - [Truthear Hexa vs Moondrop Aria 2]({{< ref "vs/truthear-hexa-vs-moondrop-aria-2" >}})
 - [Best ChiFi DAPs of 2026]({{< ref "guides/best-chifi-daps-2026" >}}) — pair your IEM with a real source
