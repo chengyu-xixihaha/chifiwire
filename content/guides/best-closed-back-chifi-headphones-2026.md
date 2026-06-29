@@ -24,7 +24,7 @@ If you're looking for open-back headphones (audiophile home listening), see our 
 - **Best budget closed-back**: HIFIMAN HE400se Closed (~$200) — entry-tier planar
 - **Best studio reference**: 7Hz Eternal ($450) — accurate measurement-grade
 - **Best for office**: Moondrop Cosmo ($350) — neutral, comfortable
-- **Best ANC closed-back**: Edifier STAX SPIRIT S5 ($550) — planar + ANC
+- **Best wireless (sound-first)**: Edifier STAX Spirit S5 ($499) — planar, no ANC
 - **Best portable / commute**: Moondrop COSMO Portable ($400)
 
 ## How we picked
@@ -88,16 +88,16 @@ The trade-off: less spacious soundstage than open-back; gains: isolation + porta
 
 ---
 
-### #5 — Edifier STAX SPIRIT S5 ($550) — Best wireless + ANC
+### #5 — Edifier STAX Spirit S5 ($499) — Best wireless, sound-first
 
-**Active Noise Cancellation, planar driver, wireless (Bluetooth) capable**
+**Planar magnetic driver, wireless (Bluetooth 5.4), 80-hour battery — no ANC**
 
-The STAX SPIRIT S5 is **the most-audiophile-friendly wireless ANC headphone**. Not as good as wired but genuinely competitive with Sony WH-1000XM6 / Bose QC55 from a fidelity standpoint.
+The [STAX Spirit S5]({{< ref "/reviews/edifier-stax-spirit-s5-review" >}}) is **the best-sounding wireless headphone at the price** — planar detail and imaging that beat Sony/Bose ANC flagships on pure fidelity, with an absurd 80-hour battery and a full hi-res codec stack (LDAC, aptX Lossless). Despite the STAX name it's planar magnetic, not electrostatic, so no special amp is needed. It also runs wired/passively via 3.5mm.
 
-Trade-offs: ANC isn't quite Sony / Bose-tier; wireless audio is still lossy; touch controls can be inconsistent.
+The catch: **no active noise cancellation** — passive isolation only. Ships with two earpad sets (leather for bass/isolation, mesh for air), which effectively gives you two tunings.
 
-**Best for**: travelers who need ANC + occasional audiophile listening
-**Less ideal for**: pure-audiophile wired listening (HE-R10D is better)
+**Best for**: listeners who want the best wireless *sound* and isolate passively (home, café, transit)
+**Less ideal for**: frequent flyers / loud offices who need ANC (get a Sony WH-1000XM6 instead)
 
 ---
 
@@ -128,7 +128,7 @@ Worth mentioning because many ChiFi buyers cross-shop. Audeze's LCD-XC Carbon is
 | **Best budget** | HE400se Closed ($200) |
 | **Best studio reference** | 7Hz Eternal ($450) |
 | **Best office wear** | Moondrop Cosmo ($350) |
-| **Best ANC + audiophile** | Edifier STAX S5 ($550) |
+| **Best wireless (sound-first)** | Edifier STAX Spirit S5 ($499) |
 | **Best portable / commute** | Moondrop COSMO Portable ($400) |
 
 ## Closed-back vs open-back — which to buy?
