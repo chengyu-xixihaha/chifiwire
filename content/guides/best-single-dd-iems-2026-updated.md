@@ -1,7 +1,7 @@
 ---
 title: "Best Single Dynamic Driver IEMs in 2026: Ranked From $20 to $200"
 date: 2026-06-24T12:00:00+08:00
-lastmod: 2026-06-24T12:00:00+08:00
+lastmod: 2026-06-30T15:00:00+08:00
 draft: false
 categories: [Guides]
 tags: [single-dynamic-driver, best-iem, buying-guide, moondrop, simgot, 7hz, chifi]
@@ -23,6 +23,7 @@ The ChiFi market in 2026 is especially strong at the single DD level. Manufactur
 | Bright, detailed sound under $25 | Moondrop Chu 2 | $20 |
 | Bass impact without sacrificing mids | Truthear Zero:Red | $55 |
 | Warm, easy listening all-day IEM | Moondrop Aria 2 | $89 |
+| Best detail + soundstage under $100 | Sivga Que UTG | $89 |
 | Most "premium" feel at the mid tier | Tanchjim Origin | $89 |
 | Most versatile, tunable single DD | Simgot EA500 LM | $109 |
 | Best single DD under $150 | Moondrop VOID | $149 |
@@ -71,6 +72,14 @@ This is the IEM you reach for when you want to sit down for two hours and just l
 The Origin is Tanchjim's attempt to bring flagship-tier fit, finish, and tuning ambition down to $89 — and the result is one of the most compelling single DD propositions at the mid tier. The shell design is notably premium for the price bracket, and the 10mm driver delivers a well-balanced, slightly W-shaped presentation that manages to be simultaneously engaging and technically capable.
 
 Where the Origin stands out against the Aria 2 at the same price is in dynamics and punch. Transient response feels snappier, and there is a livelier, more energetic quality to the presentation that suits rock and electronic music particularly well. If the Aria 2's gentler approach feels too polite for your listening habits, the Origin delivers similar mid-tier technical performance with noticeably more kick. [Full review →]({{< ref "reviews/tanchjim-origin-review" >}})
+
+---
+
+### Sivga Que UTG — $89
+
+The Que UTG is the most distinctive driver on this list: a **10mm flat glass diaphragm** (ultra-thin glass from Japanese specialist NEG) rather than the usual LCP or composite dome. Glass is stiff and light, and the payoff is exactly what the material promises — fast, clean treble with real detail and air, but without the etched brightness that "detailed" budget IEMs usually inflict. The tuning is balanced with a slight warm lean, so it stays comfortable for hours while still resolving more than its price suggests.
+
+Its standout trait is soundstage: width and depth that feel genuinely holographic for a sub-$100 single DD, with precise imaging to match. Against the Aria 2 (warmer, more mid-forward) and the Origin (snappier, more W-shaped), the Que UTG is the **detail-and-stage** pick. It also out-packages both — a real green sandalwood faceplate, a leather case, and a modular cable with *both* 3.5mm and 4.4mm plugs included, which is rare under $100. If you've been burned by harsh budget "clarity" tunings, this is the one that gets resolution right. [Full review →]({{< ref "reviews/sivga-que-utg-review" >}})
 
 ---
 
