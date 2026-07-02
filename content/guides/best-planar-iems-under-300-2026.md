@@ -1,7 +1,7 @@
 ---
 title: "Best Planar IEMs Under $300 in 2026: Ranked and Reviewed"
 date: 2026-06-22T11:00:00+08:00
-lastmod: 2026-06-22T11:00:00+08:00
+lastmod: 2026-07-02T15:30:00+08:00
 draft: false
 categories: [Guides]
 tags: [planar-iem, best-iem, buying-guide, 7hz-timeless-ae, letshuoer-s12-pro, chifi, planar-magnetic]
@@ -111,6 +111,8 @@ If you're already invested in a quality source and you prioritize analytical lis
 
 **Tangzu Fudu (~$279):** Warmer planar with a different voicing than anything else on this list. Full mid-bass presence, smoother treble, less planar "edge." Good for listeners who tried a neutral planar and found it cold. Niche recommendation, but worth knowing exists.
 
+**Kefine Arnar ($189):** Not a pure planar — a **14.5mm planar paired with a Knowles BA** — but it belongs in this conversation. The planar gives it the speed and wide stage this list is built on, while the BA adds treble articulation most sub-$200 planars lack. Its trick is **three swappable nozzles** (warm / balanced / bright), so it can be tuned to the music instead of tuning your library to it. The one caveat: the bright (gold) nozzle can get shouty, so treble-sensitive listeners should run silver or black. If you want planar performance with tuning flexibility and don't mind that it's a hybrid, it's one of the strongest picks near this price. [Full review →]({{< ref "reviews/kefine-arnar-review" >}})
+
 ---
 
 ## Quick Decision Guide
@@ -121,6 +123,7 @@ If you're already invested in a quality source and you prioritize analytical lis
 | First planar, using phone or basic dongle | Letshuoer S12 Pro |
 | Want balanced tuning, don't like V-shaped | Letshuoer S15 |
 | Classical/acoustic listener, all-in on source | Tin HiFi P2 Plus |
+| Want tuning flexibility (3 nozzles) in a planar hybrid | Kefine Arnar |
 | Budget < $160 and still want planar | S12 Pro (wait for a sale) |
 
 ---
