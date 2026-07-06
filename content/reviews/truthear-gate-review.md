@@ -1,7 +1,7 @@
 ---
 title: "Truthear Gate Review: $22 IEM With the Cable That Matters"
 date: 2026-06-02T07:15:00+08:00
-lastmod: 2026-06-28T09:00:00+08:00
+lastmod: 2026-07-06T11:15:00+08:00
 draft: false
 categories:
   - Reviews
@@ -171,6 +171,15 @@ Yes — the Gate ships with an **inline-mic cable**, so it works for calls, meet
 
 **What are the Truthear Gate's specs?**
 Single 10mm LCP dynamic driver, **16 Ω impedance, 120 dB/Vrms sensitivity**, 20 Hz – 20 kHz, detachable 0.78mm 2-pin cable (3.5mm SE), resin shell with metal faceplate. MSRP **$21.99**.
+
+**What cable does the Truthear Gate come with?**
+A **detachable 0.78mm 2-pin cable** — a 4-strand twist with a fixed 3.5mm single-ended plug and low microphonics. Truthear also ships an inline-mic version for calls and gaming. The stock cable is plain but perfectly usable; the point is that it's *swappable*, which almost no other $20 IEM offers (most hard-wire the cable, so a single cable failure kills the whole earphone).
+
+**Can you replace or upgrade the Truthear Gate's cable?**
+Yes — that's the Gate's entire reason to exist over the Moondrop Chu 2. The standard **0.78mm 2-pin** connector means any aftermarket cable fits: a $5 generic if the stock one ever fails, or a $15–25 modular / silver-plated cable with a 4.4mm balanced plug once you own a balanced DAP. You're never locked in and never have to bin the IEM over a dead cable.
+
+**What's the best aftermarket cable for the Truthear Gate?**
+For most people a **$15–25 modular cable** with swappable 3.5mm / 4.4mm plugs is the sweet spot — it future-proofs you for balanced sources. A $5 generic 0.78mm 2-pin is fine purely as a stock replacement. Pricey $30–60 silver-plated cables are mostly an aesthetic upgrade at this tier; the sonic gain is marginal. If you only spend on one thing, spend it on better ear tips ($8–15) before an expensive cable — the seal upgrade is far more audible.
 
 **Truthear Gate vs Moondrop Chu 2 — which is better?**
 Default to the Gate for the **detachable cable, inline mic, more sub-bass slam, and treble sparkle**. Pick the Chu 2 if you prefer a metal shell, more vocal-forward tuning, or smoother (less sibilant) treble. Full breakdown: [Chu 2 vs Truthear Gate]({{< ref "/vs/moondrop-chu-2-vs-truthear-gate" >}}).
