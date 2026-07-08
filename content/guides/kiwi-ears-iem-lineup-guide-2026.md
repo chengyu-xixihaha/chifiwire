@@ -1,7 +1,7 @@
 ---
 title: "Kiwi Ears IEM Lineup Guide (2026): Cadenza II vs Aether vs Halcyon and More"
 date: 2026-06-24T10:00:00+08:00
-lastmod: 2026-06-24T10:00:00+08:00
+lastmod: 2026-07-08T14:00:00+08:00
 draft: false
 categories: [Guides]
 tags: [kiwi-ears, buying-guide, lineup-guide, kiwi-ears-aether, kiwi-ears-cadenza-ii, kiwi-ears-halcyon, chifi]
@@ -22,8 +22,9 @@ That breadth is great for the brand and confusing for buyers. This guide cuts th
 | Cadenza II | ~$49 | Single 10mm titanium DD + KARS 2.0 | First "real" ChiFi IEM, clean U-shaped fun |
 | Aether | ~$169 | Single 15.3mm planar magnetic | Accessible, musical planar sound |
 | Halcyon | ~$259 | MEMS + 1DD + 3BA tribrid | Flagship resolution and treble |
+| Orchestra II | ~$349 | 10 balanced armatures (4-way) | All-BA flagship: coherence + isolation, fun U-shape |
 
-Above and around these sit other models — the budget Cadenza II shares the entry tier with cheaper single-DDs, and the lineup climbs past the Halcyon into all-BA sets like the Septet ($269) and the ten-BA Orchestra II ($349). But for most listeners, the three IEMs above are the decision.
+Above and around these sit other models — the budget Cadenza II shares the entry tier with cheaper single-DDs, and the lineup climbs past the Halcyon into all-BA sets like the Septet ($269) and the ten-BA [Kiwi Ears Orchestra II]({{< ref "reviews/kiwi-ears-orchestra-ii-review" >}}) ($349). The Orchestra II is the pick if you want flagship detail with class-leading isolation and a fun-but-clean tuning rather than the Halcyon's near-neutral MEMS presentation. But for most listeners, the three IEMs above are the decision.
 
 ---
 
