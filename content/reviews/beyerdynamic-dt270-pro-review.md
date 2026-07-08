@@ -1,7 +1,7 @@
 ---
 title: "Beyerdynamic DT 270 Pro Review: The Best Closed-Back Studio Headphone They've Made?"
 date: 2026-06-11T09:00:00+08:00
-lastmod: 2026-06-28T09:00:00+08:00
+lastmod: 2026-07-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -16,6 +16,10 @@ price: "150"
 brand: "Beyerdynamic"
 description: "Beyerdynamic DT 270 Pro review: $150 closed-back studio headphone with V-shaped tuning, 45 ohm, foldable design. Is it really Beyer's best closed-back yet?"
 slug: "beyerdynamic-dt270-pro-review"
+cover:
+  image: "https://chifiwire.com/images/reviews/beyerdynamic-dt270-pro.jpg"
+  alt: "Beyerdynamic DT 270 Pro closed-back studio headphones with grey velour ear pads"
+  caption: "Beyerdynamic DT 270 Pro — official product image"
 ---
 
 Beyerdynamic's closed-back lineup has a reputation problem. The **DT 770 Pro** is a studio institution — durable, widely used, cheap to find used — but its treble has a 6–8 kHz spike that splits opinion hard. Bright enough to be fatiguing over a long session, with a midrange some engineers describe as slightly disconnected from the rest of the frequency range. The **DT 700 Pro X** cleaned that up but pushed the price north of $200. The gap at the affordable end stayed open.

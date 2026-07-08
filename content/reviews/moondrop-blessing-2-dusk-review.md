@@ -1,7 +1,7 @@
 ---
 title: "Moondrop Blessing 2: Dusk Review — The $150 IEM That Set the Standard"
 date: 2026-06-24T11:00:00+08:00
-lastmod: 2026-06-24T11:00:00+08:00
+lastmod: 2026-07-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -17,6 +17,10 @@ tags:
   - crinacle
 description: "Moondrop Blessing 2: Dusk review — the crinacle-tuned classic that held 'best under $200' status for years. How does it hold up in 2026 against the Nova, Blessing 3, and Oracle MKII?"
 slug: moondrop-blessing-2-dusk-review
+cover:
+  image: "https://chifiwire.com/images/reviews/moondrop-blessing-2-dusk.jpg"
+  alt: "Moondrop Blessing 2 Dusk IEM, clear resin shell with brushed metal faceplate"
+  caption: "Moondrop Blessing 2: Dusk — official product image"
 rating: 4.5
 price: "159.00"
 brand: "Moondrop"

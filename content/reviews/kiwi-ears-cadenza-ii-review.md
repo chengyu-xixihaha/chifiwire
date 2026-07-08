@@ -1,7 +1,7 @@
 ---
 title: "Kiwi Ears Cadenza II Review ($50): A Smart First Budget IEM?"
 date: 2026-06-24T10:00:00+08:00
-lastmod: 2026-06-24T10:00:00+08:00
+lastmod: 2026-07-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -18,6 +18,10 @@ price: "49.99"
 brand: "Kiwi Ears"
 description: "Kiwi Ears Cadenza II review — a $50 single-DD IEM. Warm-tinged, easy, beginner-friendly. How it compares to the Truthear Gate and Moondrop Chu 2."
 slug: kiwi-ears-cadenza-ii-review
+cover:
+  image: "https://chifiwire.com/images/reviews/kiwi-ears-cadenza-ii.jpg"
+  alt: "Kiwi Ears Cadenza II IEM, graphite shell with silver tree-of-life faceplate"
+  caption: "Kiwi Ears Cadenza II — official product image"
 ---
 
 The Kiwi Ears Cadenza II is the kind of IEM that makes the sub-$50 bracket genuinely hard to shop. At **$49.99** it carries a single **10mm titanium dynamic driver** running Kiwi Ears' revised **KARS 2.0** (Kiwi Acoustic Resonance System) tuning — a proprietary internal acoustic chamber the company says is engineered for tighter sub-bass and lower distortion in budget models. On paper it's an unremarkable spec sheet. In practice, reviewers keep describing it the same way: mature, restrained, and a clear step up from the original Cadenza.

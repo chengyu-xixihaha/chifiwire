@@ -1,7 +1,7 @@
 ---
 title: "Truthear Gate Review: $22 IEM With the Cable That Matters"
 date: 2026-06-02T07:15:00+08:00
-lastmod: 2026-07-06T11:15:00+08:00
+lastmod: 2026-07-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -14,6 +14,10 @@ tags:
   - detachable-cable
 description: "Truthear Gate review: the $22 IEM that includes a mic cable and detachable 2-pin. Better for calls and vocals than the Chu 2. Full sound analysis and who should buy it."
 slug: truthear-gate-review
+cover:
+  image: "https://chifiwire.com/images/reviews/truthear-gate.jpg"
+  alt: "Truthear Gate IEM, smoke-black translucent shell with detachable 2-pin cable"
+  caption: "Truthear Gate — official product image"
 rating: 4.0
 price: "21.99"
 brand: "Truthear"
