@@ -1,7 +1,7 @@
 ---
 title: "Sennheiser HD 480 Pro Review: Closed-Back Studio Headphone Worth $399?"
 date: 2026-06-10T09:30:00+08:00
-lastmod: 2026-06-28T09:00:00+08:00
+lastmod: 2026-07-08T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -14,6 +14,10 @@ tags:
 rating: 4.4
 price: "399"
 brand: "Sennheiser"
+cover:
+  image: "https://chifiwire.com/images/reviews/sennheiser-hd-480-pro.jpg"
+  alt: "Sennheiser HD 480 Pro closed-back studio headphones with mini-XLR cable"
+  caption: "Sennheiser HD 480 Pro — official product image"
 description: "Sennheiser HD 480 Pro review: $399 closed-back, 38mm driver, 130 ohm. We test the Headphones.com 'best studio headphone, period' claim against HD 600, 660S2, DT 1990 Pro."
 slug: sennheiser-hd-480-pro-review
 ---
