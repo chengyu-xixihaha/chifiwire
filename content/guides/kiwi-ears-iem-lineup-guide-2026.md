@@ -19,6 +19,7 @@ That breadth is great for the brand and confusing for buyers. This guide cuts th
 
 | Model | Price | Driver config | Best for |
 |---|---|---|---|
+| [Belle]({{< ref "reviews/kiwi-ears-belle-review" >}}) | ~$30 | Single 10mm DLC dynamic | Warmest, cheapest entry — bass control on a budget |
 | Cadenza II | ~$49 | Single 10mm titanium DD + KARS 2.0 | First "real" ChiFi IEM, clean U-shaped fun |
 | Aether | ~$169 | Single 15.3mm planar magnetic | Accessible, musical planar sound |
 | Halcyon | ~$259 | MEMS + 1DD + 3BA tribrid | Flagship resolution and treble |
