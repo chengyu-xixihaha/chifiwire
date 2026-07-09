@@ -113,4 +113,4 @@ The only reason to choose the VOID over the Kato is if the $40 matters for your 
 - [Moondrop VOID Review]({{< ref "reviews/moondrop-void-review" >}})
 - [Moondrop Kato Review]({{< ref "reviews/moondrop-kato-review" >}})
 - [Moondrop IEM Lineup: Complete Guide (2026)]({{< ref "guides/moondrop-iem-lineup-complete-guide-2026" >}})
-- [Best Single-DD IEMs (2026, Updated)]({{< ref "guides/best-single-dd-iems-2026-updated" >}})
+- [Best Single DD IEMs in 2026]({{< ref "guides/best-single-dd-iems-2026" >}})

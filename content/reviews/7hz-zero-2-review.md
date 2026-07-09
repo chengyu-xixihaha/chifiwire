@@ -137,6 +137,6 @@ These are different tools. The Zero:Red is a bass specialist — elevated sub-ba
 - [HiFiGo](https://hifigo.com/) — search "7Hz Zero 2"
 - [Amazon](https://www.amazon.com/) — search "7Hz Salnotes Zero 2"
 
-*Looking for more budget IEM recommendations?* See our [best ChiFi IEMs under $50 guide]({{< ref "guides/best-chifi-iems-under-50-2026-updated" >}}) for the full ranked list.
+*Looking for more budget IEM recommendations?* See our [best ChiFi IEMs under $50 guide]({{< ref "guides/best-chifi-iems-under-50-2026" >}}) for the full ranked list.
 
 *Disclosure: Some links are affiliate links. See our [Affiliate Disclosure](/affiliate-disclosure/) for details. If you buy through them, ChiFi Wire may earn a commission at no extra cost to you.*

@@ -138,7 +138,7 @@ No. At 33 Ω and 122 dB/Vrms the Aria 2 is highly efficient — a phone dongle, 
 Moondrop released the Aria 2 in 2026 at an MSRP of **$89.99**, succeeding the original 2021 Aria. It's stocked at Moondrop's official store, Linsoul, HiFiGo, Apos Audio, and Bloom Audio — see the links below.
 
 **Moondrop Aria 2 vs Truthear Hexa vs Truthear Nova — which should I buy?**
-The Aria 2 is the warm, musical single-DD pick; the Hexa is the brighter, more analytical hybrid; the Nova is the more technical, treble-forward step up. We break each pairing down in [Aria 2 vs Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) and [Aria 2 vs Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}).
+The Aria 2 is the warm, musical single-DD pick; the Hexa is the brighter, more analytical hybrid; the Nova is the more technical, treble-forward step up. We break each pairing down in [Aria 2 vs Hexa]({{< ref "/vs/truthear-hexa-vs-moondrop-aria-2" >}}) and [Aria 2 vs Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}).
 
 **Does the Aria 2 come with a balanced cable?**
 Yes. Unlike the original Aria, the Aria 2 includes **modular 3.5mm and 4.4mm plugs in the box** — no separate balanced-cable purchase needed.
@@ -153,7 +153,7 @@ The stock silicone tips are merely adequate. Budget another $10 for Spinfit CP14
 
 ## Related reading
 
-- [Moondrop Aria 2 vs Truthear Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) — direct head-to-head with the dominant sub-$100 competitor
+- [Truthear Hexa vs Moondrop Aria 2]({{< ref "/vs/truthear-hexa-vs-moondrop-aria-2" >}}) — direct head-to-head with the dominant sub-$100 competitor
 - [Moondrop Aria 2 vs Truthear Nova]({{< ref "/vs/moondrop-aria-2-vs-truthear-nova" >}}) — stepping up to the more technical, treble-forward Nova
 - [Truthear Pure vs Moondrop Aria 2]({{< ref "/vs/truthear-pure-vs-moondrop-aria-2" >}}) — single-DD warmth against Truthear's reference tuning
 - [Moondrop Aria vs Aria 2]({{< ref "/guides/moondrop-aria-vs-aria-2-comparison" >}}) — original vs sequel, is the upgrade worth it

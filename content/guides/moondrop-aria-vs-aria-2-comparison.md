@@ -132,7 +132,7 @@ Quick reality check — what else to consider at this price tier:
 | **vs Salnotes Zero ($20)** | Aria 2 wins clearly on resolution | Budget constraint only |
 | **vs KZ Castor ($30)** | Aria 2 wins on tuning consistency | Like tuning switches |
 
-[Full comparison: Aria 2 vs Hexa](/vs/moondrop-aria-2-vs-truthear-hexa/) · [Aria 2 vs Pure](/vs/truthear-pure-vs-moondrop-aria-2/).
+[Full comparison: Hexa vs Aria 2](/vs/truthear-hexa-vs-moondrop-aria-2/) · [Aria 2 vs Pure](/vs/truthear-pure-vs-moondrop-aria-2/).
 
 ## Where Aria 2 wins / loses
 
@@ -176,7 +176,7 @@ For current Aria owners: **upgrade if you have specific reason** (balanced sourc
 ## Related reading
 
 - [Moondrop Aria 2 Review](/reviews/moondrop-aria-2-review/)
-- [Moondrop Aria 2 vs Truthear Hexa](/vs/moondrop-aria-2-vs-truthear-hexa/)
+- [Truthear Hexa vs Moondrop Aria 2](/vs/truthear-hexa-vs-moondrop-aria-2/)
 - [Best ChiFi IEMs Under $100 in 2026](/guides/best-chifi-iems-under-100-2026/)
 - [Best ChiFi IEMs — Reddit Consensus](/guides/best-chifi-iems-reddit-consensus-2026/)
 

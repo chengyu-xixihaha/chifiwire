@@ -154,7 +154,7 @@ MSRP is **$89**, though some retailers list it closer to $98. Either way it's a 
 
 ## Related reading
 
-- [Best Single DD IEMs 2026]({{< ref "/guides/best-single-dd-iems-2026-updated" >}}) — where the Que UTG fits among single-driver picks
+- [Best Single DD IEMs 2026]({{< ref "/guides/best-single-dd-iems-2026" >}}) — where the Que UTG fits among single-driver picks
 - [Best ChiFi IEMs Under $100 in 2026]({{< ref "/guides/best-chifi-iems-under-100-2026" >}}) — the full sub-$100 shortlist
 - [Moondrop Aria 2 Review]({{< ref "/reviews/moondrop-aria-2-review" >}}) — the warm-musical alternative at the same price
 - [Truthear Hexa Review]({{< ref "/reviews/truthear-hexa-review" >}}) — the neutral measurement pick under $80

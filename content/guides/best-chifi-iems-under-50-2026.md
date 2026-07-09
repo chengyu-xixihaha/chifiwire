@@ -106,8 +106,30 @@ None of this should stop you from buying a $25 IEM. It should calibrate what the
 
 ---
 
+## What we skipped (and why)
+
+- **Older KZ models** (ZSN Pro X, ZS10 Pro) — superseded by Castor
+- **TRN MT1 Pro** — build quality concerns
+- **CCA C10 / CCA CXS** — older designs, better options exist
+- **CVJ models** — inconsistent in 2026 lineup
+- **HZSOUND Mirror** — niche, less Reddit consensus
+
+---
+
+## Buying tips
+
+**Tip 1: Don't buy multiple at this tier.** Pick one, listen 2–3 weeks, learn your preferences before buying another.
+
+**Tip 2: Source matters even at $20–30.** Pair with at least an Apple USB-C dongle ($9) for proper power. See [best dongle DACs]({{< ref "guides/best-dongle-dacs-2026" >}}).
+
+**Tip 3: Tip rolling helps.** Stock tips on $30 IEMs are mediocre. Budget $10–15 for Final Type E or JVC Spiral Dots. See our [tip rolling guide]({{< ref "guides/iem-tip-rolling-guide" >}}).
+
+**Tip 4: The $50 → $100 jump is meaningful.** If you can stretch to $80, the [Truthear Hexa]({{< ref "reviews/truthear-hexa-review" >}}) is significantly better than anything in this tier. Sub-$50 is "good starter"; sub-$100 is "audiophile entry."
+
+---
+
 When you're ready to spend more: [Best ChiFi IEMs Under $100 in 2026]({{< ref "guides/best-chifi-iems-under-100-2026" >}}) — the next tier up, where single DDs start competing seriously with hybrids.
 
-If you want to go deeper on the single-DD format specifically: [Best Single DD IEMs in 2026]({{< ref "guides/best-single-dd-iems-2026-updated" >}}).
+If you want to go deeper on the single-DD format specifically: [Best Single DD IEMs in 2026]({{< ref "guides/best-single-dd-iems-2026" >}}).
 
 *Disclosure: Some links in this article are affiliate links. If you buy through them, ChiFi Wire may earn a small commission at no extra cost to you. We only recommend gear we'd buy ourselves.*

@@ -1,0 +1,12 @@
+# 301s for consolidated duplicate pages (2026-07-09).
+# Each source page was a near-duplicate of its target: same topic, same picks,
+# zero impressions, and not indexed by Google. Merging them stops the two pages
+# cannibalising each other and reclaims crawl budget on a site indexing at ~23%.
+#
+# Cross-path only — never map a path to itself, which is how you get the
+# /foo → 308 → /foo loop that CF Pages' clean-URL handling already prevents.
+
+/guides/best-single-dd-iems-2026-updated/       /guides/best-single-dd-iems-2026/     301
+/guides/best-chifi-iems-under-50-2026-updated/  /guides/best-chifi-iems-under-50-2026/ 301
+/guides/best-iems-for-gaming-2026/              /guides/best-chifi-iems-for-gaming/   301
+/vs/moondrop-aria-2-vs-truthear-hexa/           /vs/truthear-hexa-vs-moondrop-aria-2/ 301

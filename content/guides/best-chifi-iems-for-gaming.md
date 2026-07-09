@@ -1,7 +1,7 @@
 ---
-title: "Best ChiFi IEMs for Gaming in 2026: FPS, Esports, Casual"
+title: "Best IEMs for Gaming in 2026: ChiFi Picks for FPS, Esports, and RPG"
 date: 2026-06-03T08:30:00+08:00
-lastmod: 2026-06-29T09:00:00+08:00
+lastmod: 2026-07-09T10:00:00+08:00
 draft: false
 categories:
   - Buying Guides
@@ -12,7 +12,7 @@ tags:
   - esports
   - valorant
   - genre-guide
-description: "Best ChiFi IEMs for gaming in 2026: soundstage for footsteps, low latency wired connection, 7 picks from $35 KZ Castor to $260 Tanchjim Origin for FPS / esports / casual."
+description: "The best IEMs for gaming in 2026 — soundstage for footsteps, low-latency wired connection, 7 ChiFi picks from the $35 KZ Castor to the $260 Tanchjim Origin, for FPS, esports, and RPG."
 slug: best-chifi-iems-for-gaming
 ---
 

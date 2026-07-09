@@ -127,7 +127,7 @@ DUNU is still part of the old guard — Falcon Ultra, Titan S, the DaVinci colla
 - [Best ChiFi IEMs — Reddit Consensus 2026]({{< ref "/guides/best-chifi-iems-reddit-consensus-2026" >}})
 - [LETSHUOER S15 vs S12 Pro]({{< ref "/vs/letshuoer-s15-vs-s12-pro" >}})
 - [Truthear Nova vs Hexa]({{< ref "/vs/truthear-nova-vs-hexa" >}})
-- [Moondrop Aria 2 vs Truthear Hexa]({{< ref "/vs/moondrop-aria-2-vs-truthear-hexa" >}}) — other sub-$100 vs same-tier comparison
+- [Truthear Hexa vs Moondrop Aria 2]({{< ref "/vs/truthear-hexa-vs-moondrop-aria-2" >}}) — other sub-$100 vs same-tier comparison
 - [Best Dongle DACs 2026]({{< ref "/guides/best-dongle-dacs-2026" >}})
 
 *Source: Caleb Loo (@FC Construct), [Catching Up with DUNU - DN142 vs DN242 Dual Review](https://headphones.com/blogs/reviews/dunu-dn142-vs-dn242-dual-review), Headphones.com, May 21, 2026.*
