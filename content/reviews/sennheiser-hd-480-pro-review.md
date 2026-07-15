@@ -74,7 +74,7 @@ The pads do warm up. Recording magazine flagged it in their May 2026 featured re
 
 ## How it compares
 
-**Sennheiser HD 600 ($399 street).** The benchmark for mix reference. Brighter treble, drier midrange, open-back stage, 300 ohm. The HD 600 is more *honest* — it will expose mix problems the 480 Pro smooths over. The 480 Pro is more *enjoyable*. If your room is treated and you don't need isolation, keep buying HD 600s. If you track vocals or work in a noisy environment, the 480 Pro is the better tool.
+**Sennheiser HD 600 ($399 street).** The benchmark for mix reference. Brighter treble, drier midrange, open-back stage, 300 ohm. The HD 600 is more *honest* — it will expose mix problems the 480 Pro smooths over. The 480 Pro is more *enjoyable*. If your room is treated and you don't need isolation, keep buying HD 600s. If you track vocals or work in a noisy environment, the 480 Pro is the better tool. Full head-to-head in our [HD 600 vs HD 480 Pro comparison]({{< ref "vs/sennheiser-hd600-vs-hd480-pro" >}}).
 
 **Sennheiser HD 660S2 ($499).** Lower 150 ohm impedance, stronger sub-bass extension than the HD 600, smoother treble (fewer 6-8 kHz peaks). The 660S2 is the closer rival on sound signature — both lean smooth/warm-neutral. But the 660S2 is still open-back and still costs $100 more. The 480 Pro wins on isolation, weight, and price. The 660S2 wins on soundstage and that final bit of resolution. For pure listening, 660S2. For closed-back studio work, 480 Pro.
 
