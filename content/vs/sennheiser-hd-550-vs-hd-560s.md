@@ -1,7 +1,7 @@
 ---
 title: "Sennheiser HD 550 vs HD 560S: Should You Buy Vintage or New?"
 date: 2026-06-21T10:00:00+08:00
-lastmod: 2026-06-21T10:00:00+08:00
+lastmod: 2026-07-23T09:00:00+08:00
 draft: false
 categories: [Comparisons]
 tags: [sennheiser, sennheiser-hd-550, sennheiser-hd-560s, headphones, open-back, vintage-audio, vs, chifi]
@@ -58,11 +58,12 @@ A clean, fully functional HD 550 in good cosmetic condition runs $100–150 on e
 
 There is also the simpler issue of scarcity. The HD 550 is not always available. When it appears, listings move quickly or the condition is disappointing. The HD 560S is in stock at Amazon, B&H, and Sennheiser's own site today.
 
+<!-- lastmod bumped 2026-07-23: add HD 480 Pro contextual link + fix bare Hugo ref -->
 ## Alternatives Worth Knowing
 
 If you are shopping in the $150–250 range for an open-back, the competitive picture has changed significantly since 2001. The **Moondrop Void** ($149) offers a warmer, more relaxed tuning at lower cost. The **Sennheiser HD 600** ($299) is the definitive choice if you are willing to step up in budget and add amplification. For a full breakdown of the HD 560S in its own right, see our {{< ref "reviews/sennheiser-hd-560s-review" >}}.
 
-If closed-back is on the table, the **Sennheiser HD 480 Pro** ({{< ref "reviews/sennheiser-hd-480-pro-review" >}}) is worth a look for monitoring-adjacent use. And for a broader view of what the Chinese audio market has contributed to open-back design in this price tier, our {{< ref "guides/best-chinese-open-back-headphones-under-500" >}} covers the field thoroughly.
+If closed-back is on the table — isolation matters, or you'll be tracking with an open mic in the room — the **[Sennheiser HD 480 Pro]({{< ref "reviews/sennheiser-hd-480-pro-review" >}})** ($399) is the step up: sealed, smooth peak-free treble, and it doubles as a monitoring headphone. It's not a same-price alternative to the HD 560S ($200), but if the reason you're looking at open-back is "it sounded better than my old closed cans," a purpose-built modern closed-back like the 480 Pro closes most of that gap while keeping isolation. See our [HD 480 Pro vs HD 560S]({{< ref "vs/sennheiser-hd-480-pro-vs-hd-560s" >}}) breakdown for when the extra $200 makes sense. And for a broader view of what the Chinese audio market has contributed to open-back design in this price tier, our [best Chinese open-back headphones under $500]({{< ref "guides/best-chinese-open-back-headphones-under-500" >}}) guide covers the field.
 
 ## Verdict
 

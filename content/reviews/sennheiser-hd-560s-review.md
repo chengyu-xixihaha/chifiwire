@@ -1,7 +1,7 @@
 ---
 title: "Sennheiser HD 560S Review: Honest Neutral at $200"
 date: 2026-06-17T08:00:00+08:00
-lastmod: 2026-06-17T08:00:00+08:00
+lastmod: 2026-07-23T09:00:00+08:00
 draft: false
 categories:
   - Reviews
@@ -69,7 +69,7 @@ If the brightness is genuinely a problem for your use case: EQ down from 8–12k
 
 **vs. Sennheiser HD 600 (~$250):** The HD 600 is smoother, warmer, and slightly more musical at the cost of some imaging sharpness. The HD 600 is the more natural-sounding headphone; the HD 560S is the more analytical one. Both are excellent. Pick based on whether you're monitoring or enjoying.
 
-**vs. Sennheiser HD 480 Pro (~$180):** The HD 480 Pro is a studio monitoring headphone with an almost completely flat response. The HD 560S has more treble air. For mixing, the 480 Pro is arguably more honest; for general listening, the 560S has more perceived detail.
+**vs. Sennheiser HD [480 Pro]({{< ref "reviews/sennheiser-hd-480-pro-review" >}}) ($399):** The 480 Pro is a **closed-back** $399 studio monitoring headphone with smoother, essentially peak-free treble. The HD 560S is open-back at half the price with an elevated 8–12 kHz peak. For tracking or long listening sessions, the 480 Pro is easier to live with; for pure mix reference on a budget, the 560S's honesty at $200 is hard to beat. Full breakdown: [HD 480 Pro vs HD 560S]({{< ref "vs/sennheiser-hd-480-pro-vs-hd-560s" >}}).
 
 **vs. Beyerdynamic DT 990 Pro (~$180):** Both have elevated treble. The DT 990 Pro is more V-shaped with more bass; the HD 560S is flatter. The DT 990 Pro is more fun; the HD 560S is more accurate.
 
